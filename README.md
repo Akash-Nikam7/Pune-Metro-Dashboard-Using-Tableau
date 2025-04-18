@@ -60,7 +60,6 @@ The dataset contains:
 ## 🚀 Future Improvements
 
 - Integrate **real-time passenger data** using APIs.
-- Add **demographic details** like age/gender for deeper analysis.
 - Use **ML models** for peak hour prediction.
 - Make dashboard **mobile-friendly** and responsive.
 - Compare usage with other city transport systems (buses, autos, etc.)
@@ -69,16 +68,15 @@ The dataset contains:
 
 ## 🔗 Tableau Public Link
 
-👉 [View Live Dashboard on Tableau Public](#) *(Update this with your actual link after publishing)*
+👉 [View Live Dashboard on Tableau Public](#) *(Not yet publish)*
 
 ---
 
 ## 📁 Files Included
 
-- `PuneMetro_PassengerData.xlsx` – cleaned data file  
-- `Station_Lat_Long.csv` – geo-coordinates for mapping  
+- `Pune Metro Data.xlsx` – cleaned data file  
 - Screenshots of the dashboard  
-- Tableau Workbook file (`.twbx`)
+- Tableau Workbook file (`.twb`)
 
 ---
 
