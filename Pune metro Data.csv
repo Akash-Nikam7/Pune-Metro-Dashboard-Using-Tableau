@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,City,Ticket_Type,Payment_Method,Travel_Frequency,Start_Station,End_Station,Ticket_Price,Travel_Date,Metro Line,Latitude,Longitude
+CUST1000,Nicholas Johnson,60,Male,Nagpur,Return,Credit Card,Weekly,Ramwadi,PMC,22,25-04-2023,Aqua Line,18.5583,73.9076
+CUST1016,Frances Mills,20,Female,Nashik,Return,Cash,Weekly,Vanaz,Ramwadi,30,04-05-2023,Aqua Line,18.5005,73.8077
+CUST1001,Deanna Small,35,Male,Mumbai,Monthly Pass,Cash,Weekly,Mangalwar Peth,PCMC,24,16-04-2022,Aqua Line,18.5282,73.8623
+CUST1007,Joshua Bauer,21,Female,Nagpur,Monthly Pass,Cash,Daily,Mangalwar Peth,Bund Garden,12,17-01-2023,Aqua Line,18.5282,73.8623
+CUST1026,Katherine Jones,51,Female,Aurangabad,Monthly Pass,Cash,Occasionally,Mangalwar Peth,Shivaji Nagar,10,25-09-2023,Aqua Line,18.5282,73.8623
+CUST1005,Melissa Hogan,60,Female,Nashik,Single,UPI,Daily,Anand Nagar,District Court,20,25-05-2024,Aqua Line,18.4956,73.8139
+CUST1018,Brianna Morris,45,Female,Pune,Single,UPI,Occasionally,Anand Nagar,Mangalwar Peth,22,05-03-2023,Aqua Line,18.4956,73.8139
+CUST1002,John Dunlap,36,Female,Pune,Single,Credit Card,Daily,Kasba Peth,Yerwada,14,11-12-2023,Purple Line,18.52162948,73.85949608
+CUST1006,Mike Roberts,54,Male,Nagpur,Monthly Pass,Credit Card,Daily,Ideal Colony,District Court,18,15-06-2024,Aqua Line,18.4942,73.8203
+CUST1003,Benjamin Thompson,36,Female,Nashik,Monthly Pass,UPI,Weekly,Dapodi,Bund Garden,20,17-09-2023,Purple Line,18.5783,73.8381
+CUST1008,Caitlin Martin,19,Female,Mumbai,Return,Net Banking,Daily,Dapodi,Vanaz,16,26-08-2022,Purple Line,18.5783,73.8381
+CUST1017,Emily Freeman,45,Female,Nagpur,Monthly Pass,Cash,Occasionally,Dapodi,Bopodi,10,20-02-2023,Purple Line,18.5783,73.8381
+CUST1012,Richard Bean,27,Male,Pune,Return,Cash,Weekly,Nal Stop,Shivaji Nagar,14,06-08-2022,Aqua Line,18.5083,73.8296
+CUST1004,Sydney Ortiz,19,Male,Mumbai,Monthly Pass,Net Banking,Occasionally,PCMC,Bopodi,18,03-08-2024,Purple Line,18.62910766,73.80377477
+CUST1011,William Hernandez,21,Male,Mumbai,Monthly Pass,Credit Card,Occasionally,PCMC,Vanaz,10,21-06-2022,Purple Line,18.62910766,73.80377477
+CUST1023,Jill Brewer,26,Male,Pune,Monthly Pass,Credit Card,Weekly,PCMC,Ramwadi,30,31-03-2023,Purple Line,18.62910766,73.80377477
+CUST1014,Kimberly Luna,20,Female,Nashik,Single,Cash,Weekly,PMC,Garware College,12,14-11-2024,Aqua Line,18.5169,73.8535
+CUST1009,Wendy Ramirez,43,Female,Nagpur,Single,Credit Card,Occasionally,Bund Garden,Mangalwar Peth,12,27-08-2023,Aqua Line,18.5371,73.8842
+CUST1010,James Johnson,20,Male,Pune,Return,Cash,Daily,Bund Garden,Sant Tukaram Nagar,28,16-03-2022,Aqua Line,18.5371,73.8842
+CUST1025,Duane Sanchez,61,Male,Mumbai,Return,Credit Card,Occasionally,Ruby Hall Clinic,Garware College,20,07-10-2023,Aqua Line,18.5341,73.8795
+CUST1013,Dale Lane,55,Male,Mumbai,Single,Net Banking,Daily,Shivaji Nagar,Vanaz,20,10-09-2023,Purple Line,18.5308,73.8524
+CUST1024,Kenneth Johnston,54,Male,Mumbai,Return,Cash,Weekly,Shivaji Nagar,Anand Nagar,18,10-12-2024,Purple Line,18.5308,73.8524
+CUST1020,Daniel Waters,33,Female,Nagpur,Monthly Pass,UPI,Weekly,Kalyani Nagar,Mangalwar Peth,16,20-08-2022,Aqua Line,18.5515,73.9001
+CUST1015,Natalie Zamora,53,Male,Aurangabad,Monthly Pass,UPI,Daily,Swargate,Bund Garden,10,05-06-2024,Purple Line,18.5018,73.8586
+CUST1019,Dr. Matthew White,33,Male,Pune,Monthly Pass,UPI,Daily,Swargate,Ramwadi,14,13-04-2024,Purple Line,18.5018,73.8586
+CUST1027,Lauren Garcia,46,Female,Aurangabad,Single,Credit Card,Weekly,Sant Tukaram Nagar,Bhosari,10,01-06-2024,Purple Line,18.627,73.8075
+CUST1022,Tammy Forbes,37,Male,Mumbai,Monthly Pass,Cash,Occasionally,Bhosari,Mandai,22,01-12-2023,Purple Line,18.6188,73.8136
+CUST1021,Jessica Perez,61,Male,Aurangabad,Single,Net Banking,Weekly,Bopodi,Garware College,10,05-07-2023,Purple Line,18.5645,73.8456
+CUST1028,Christina Richards,29,Female,Mumbai,Return,Cash,Occasionally,Vanaz,Bopodi,18,16-05-2023,Aqua Line,18.5005,73.8077
+CUST1029,Mr. Eugene Schneider DDS,22,Female,Aurangabad,Return,Credit Card,Occasionally,Swargate,Anand Nagar,26,16-08-2023,Purple Line,18.5018,73.8586
+CUST1030,David Strong,63,Male,Nashik,Return,Net Banking,Weekly,PMC,Anand Nagar,18,02-12-2022,Aqua Line,18.5169,73.8535
+CUST1031,Nancy Fox,54,Female,Aurangabad,Single,Cash,Weekly,District Court,Chhatrapati Sambhaji Udyan,10,06-09-2024,Interchange Station,18.5204,73.8567
+CUST1032,Randall Perez,22,Male,Nagpur,Single,UPI,Daily,Bhosari,Kalyani Nagar,30,24-12-2022,Purple Line,18.6188,73.8136
+CUST1033,Alison Sanchez MD,31,Male,Nagpur,Monthly Pass,UPI,Occasionally,District Court,Ruby Hall Clinic,12,04-05-2022,Interchange Station,18.5204,73.8567
+CUST1034,Nicholas Green,62,Female,Aurangabad,Monthly Pass,Net Banking,Daily,PCMC,Ideal Colony,10,17-03-2022,Purple Line,18.62910766,73.80377477
+CUST1035,Julie Adkins,34,Male,Mumbai,Return,UPI,Occasionally,Yerwada,PCMC,30,23-12-2022,Aqua Line,18.5486,73.8925
+CUST1036,Sharon Fletcher,59,Male,Nagpur,Single,Credit Card,Occasionally,Ramwadi,Mangalwar Peth,18,15-08-2024,Aqua Line,18.5583,73.9076
+CUST1037,Michael Dorsey,56,Female,Pune,Single,UPI,Occasionally,Anand Nagar,Bhosari,10,04-04-2022,Aqua Line,18.4956,73.8139
+CUST1038,Anita Gregory,34,Female,Nashik,Return,UPI,Occasionally,Swargate,Mandai,10,23-06-2023,Purple Line,18.5018,73.8586
+CUST1039,Jacob Steele,38,Female,Aurangabad,Monthly Pass,Credit Card,Daily,Mandai,Bhosari,22,14-08-2022,Purple Line,18.51,73.856
+CUST1040,Mitchell Jackson,64,Female,Mumbai,Return,Net Banking,Daily,Bhosari,Phugewadi,10,17-12-2022,Purple Line,18.6188,73.8136
+CUST1041,Sharon Johnson,47,Male,Pune,Monthly Pass,Cash,Daily,Nal Stop,Kasba Peth,18,15-11-2023,Aqua Line,18.5083,73.8296
+CUST1042,Travis Chapman,25,Female,Nagpur,Return,Credit Card,Occasionally,Bhosari,Yerwada,28,02-02-2022,Purple Line,18.6188,73.8136
+CUST1043,Sandra Frank,53,Female,Nashik,Return,Credit Card,Weekly,Bopodi,Kasarwadi,12,12-01-2023,Purple Line,18.5645,73.8456
+CUST1044,Hunter Williams,58,Male,Nashik,Single,Net Banking,Weekly,Nal Stop,Bhosari,10,29-11-2022,Aqua Line,18.5083,73.8296
+CUST1045,Edward Powers,31,Female,Mumbai,Return,Net Banking,Weekly,Vanaz,Kasba Peth,24,19-04-2023,Aqua Line,18.5005,73.8077
+CUST1046,Robert Allison,21,Female,Nashik,Return,UPI,Daily,Bopodi,Pune Railway Station,14,15-07-2024,Purple Line,18.5645,73.8456
+CUST1047,Kevin Trevino,59,Male,Nagpur,Monthly Pass,Credit Card,Weekly,Ruby Hall Clinic,Yerwada,10,07-09-2022,Aqua Line,18.5341,73.8795
+CUST1048,Lisa Wade,30,Male,Nashik,Return,UPI,Occasionally,Bhosari,Garware College,10,03-01-2022,Purple Line,18.6188,73.8136
+CUST1049,James Richmond,59,Male,Aurangabad,Return,Cash,Weekly,PMC,District Court,10,27-12-2024,Aqua Line,18.5169,73.8535
+CUST1050,Brett Kline,44,Male,Pune,Single,UPI,Occasionally,Dapodi,Vanaz,16,26-12-2023,Purple Line,18.5783,73.8381
+CUST1051,Lisa Brown,45,Female,Nashik,Return,Net Banking,Occasionally,Bhosari,Bund Garden,26,16-03-2023,Purple Line,18.6188,73.8136
+CUST1052,Patricia Yates,46,Female,Pune,Monthly Pass,UPI,Daily,Ideal Colony,Dapodi,12,09-09-2022,Aqua Line,18.4942,73.8203
+CUST1053,Crystal White,48,Male,Nashik,Monthly Pass,Cash,Weekly,Bopodi,Garware College,10,09-12-2022,Purple Line,18.5645,73.8456
+CUST1054,Brandon Williams,49,Male,Mumbai,Monthly Pass,Credit Card,Daily,PMC,PCMC,20,02-06-2022,Aqua Line,18.5169,73.8535
+CUST1055,Sarah Price,35,Female,Mumbai,Return,Credit Card,Daily,Kalyani Nagar,Anand Nagar,30,23-02-2024,Aqua Line,18.5515,73.9001
+CUST1056,Hannah Tucker,26,Female,Nashik,Return,UPI,Occasionally,Yerwada,Swargate,10,23-03-2024,Aqua Line,18.5486,73.8925
+CUST1057,Robert Welch,32,Male,Nashik,Monthly Pass,Credit Card,Weekly,Kasba Peth,Deccan Gymkhana,14,05-01-2024,Purple Line,18.52162948,73.85949608
+CUST1058,Margaret Silva,64,Male,Mumbai,Return,Credit Card,Weekly,Kasarwadi,Garware College,10,04-06-2022,Purple Line,18.6069,73.8225
+CUST1059,Lisa Cooper,23,Female,Aurangabad,Single,UPI,Occasionally,District Court,Sant Tukaram Nagar,20,23-05-2024,Interchange Station,18.5204,73.8567
+CUST1060,Michael Newman,40,Male,Pune,Monthly Pass,Cash,Occasionally,Sant Tukaram Nagar,Bhosari,10,07-08-2022,Purple Line,18.627,73.8075
+CUST1061,Desiree Watkins,43,Male,Nashik,Return,Credit Card,Daily,PCMC,Anand Nagar,10,27-10-2023,Purple Line,18.62910766,73.80377477
+CUST1062,Daniel Mcdonald,61,Male,Nagpur,Single,Net Banking,Daily,Bhosari,PCMC,10,22-02-2022,Purple Line,18.6188,73.8136
+CUST1063,Benjamin Jones,53,Female,Aurangabad,Monthly Pass,Cash,Daily,Sant Tukaram Nagar,Vanaz,10,08-12-2023,Purple Line,18.627,73.8075
+CUST1064,Colton Adams,65,Female,Nashik,Return,Net Banking,Occasionally,Deccan Gymkhana,Ruby Hall Clinic,18,06-07-2022,Aqua Line,18.5204,73.8415
+CUST1065,Charles Perez,30,Female,Mumbai,Monthly Pass,UPI,Weekly,District Court,Ideal Colony,18,16-09-2023,Interchange Station,18.5204,73.8567
+CUST1066,James Hale,48,Female,Nagpur,Monthly Pass,Cash,Weekly,Kalyani Nagar,Yerwada,10,28-06-2022,Aqua Line,18.5515,73.9001
+CUST1067,Lisa Hernandez,40,Male,Pune,Single,UPI,Weekly,Kasarwadi,Ramwadi,30,13-10-2023,Purple Line,18.6069,73.8225
+CUST1068,Alyssa Camacho,51,Male,Nashik,Monthly Pass,Cash,Occasionally,Kasarwadi,Bhosari,10,02-08-2023,Purple Line,18.6069,73.8225
+CUST1069,Jenny Holt,36,Male,Aurangabad,Return,Cash,Weekly,Mangalwar Peth,PMC,10,14-09-2022,Aqua Line,18.5282,73.8623
+CUST1070,Jamie Landry,26,Female,Nagpur,Return,Cash,Weekly,Sant Tukaram Nagar,Bopodi,16,30-01-2022,Purple Line,18.627,73.8075
+CUST1071,Kristi Watts,59,Female,Nagpur,Single,Net Banking,Weekly,Deccan Gymkhana,Mandai,16,17-07-2023,Aqua Line,18.5204,73.8415
+CUST1072,Taylor Moss,49,Male,Nagpur,Monthly Pass,Credit Card,Weekly,Ruby Hall Clinic,Sant Tukaram Nagar,26,15-03-2023,Aqua Line,18.5341,73.8795
+CUST1073,George Ruiz,47,Male,Nashik,Single,UPI,Daily,Sant Tukaram Nagar,Pune Railway Station,24,05-09-2024,Purple Line,18.627,73.8075
+CUST1074,Marissa Young,38,Male,Aurangabad,Monthly Pass,UPI,Weekly,Dapodi,Kasba Peth,14,18-04-2023,Purple Line,18.5783,73.8381
+CUST1075,Megan Wilson,31,Male,Mumbai,Return,Net Banking,Weekly,Kasarwadi,Yerwada,26,13-04-2022,Purple Line,18.6069,73.8225
+CUST1076,Lisa Owens,38,Male,Nashik,Return,Cash,Weekly,District Court,Kasba Peth,10,05-07-2023,Interchange Station,18.5204,73.8567
+CUST1077,Luis Park,62,Male,Pune,Single,Credit Card,Weekly,PCMC,District Court,22,02-12-2022,Purple Line,18.62910766,73.80377477
+CUST1078,Barbara Carr,30,Female,Nagpur,Return,UPI,Occasionally,Sant Tukaram Nagar,Mandai,24,04-02-2023,Purple Line,18.627,73.8075
+CUST1079,Katie Petersen,60,Female,Nagpur,Single,Net Banking,Daily,Ramwadi,Nal Stop,30,28-08-2022,Aqua Line,18.5583,73.9076
+CUST1080,Lisa Howard,23,Female,Nashik,Monthly Pass,Credit Card,Daily,Deccan Gymkhana,Ideal Colony,12,12-09-2024,Aqua Line,18.5204,73.8415
+CUST1081,David Schmidt,65,Female,Aurangabad,Monthly Pass,UPI,Daily,Ruby Hall Clinic,District Court,12,17-07-2022,Aqua Line,18.5341,73.8795
+CUST1082,Alexandra Watson,57,Male,Pune,Monthly Pass,UPI,Occasionally,Ideal Colony,Shivaji Nagar,16,04-04-2023,Aqua Line,18.4942,73.8203
+CUST1083,Jared Davis,31,Female,Aurangabad,Return,UPI,Occasionally,PCMC,Deccan Gymkhana,16,09-03-2023,Purple Line,18.62910766,73.80377477
+CUST1084,Eric Spencer,62,Female,Pune,Return,Credit Card,Occasionally,Kalyani Nagar,Vanaz,30,31-03-2022,Aqua Line,18.5515,73.9001
+CUST1085,Alexis Michael,63,Female,Mumbai,Return,UPI,Daily,Pune Railway Station,Phugewadi,18,03-08-2023,Aqua Line,18.5297,73.8726
+CUST1086,Stephen Burke,41,Female,Nashik,Monthly Pass,Cash,Occasionally,Pune Railway Station,Chhatrapati Sambhaji Udyan,14,24-08-2024,Aqua Line,18.5297,73.8726
+CUST1087,Christian King,28,Male,Pune,Single,Cash,Weekly,Bund Garden,Deccan Gymkhana,20,02-06-2022,Aqua Line,18.5371,73.8842
+CUST1088,Deborah Burke,47,Female,Nagpur,Return,Cash,Daily,District Court,Shivaji Nagar,10,13-07-2024,Interchange Station,18.5204,73.8567
+CUST1089,Shane Austin,47,Female,Mumbai,Return,Cash,Daily,Mandai,Shivaji Nagar,12,23-12-2022,Purple Line,18.51,73.856
+CUST1090,Natalie Chavez,21,Male,Pune,Single,Cash,Daily,PMC,Chhatrapati Sambhaji Udyan,10,13-11-2024,Aqua Line,18.5169,73.8535
+CUST1091,Stephanie Ortiz,49,Female,Nagpur,Return,UPI,Occasionally,Yerwada,Anand Nagar,30,16-04-2023,Aqua Line,18.5486,73.8925
+CUST1092,Mark Taylor,45,Female,Mumbai,Single,Cash,Occasionally,PMC,Ramwadi,22,07-02-2023,Aqua Line,18.5169,73.8535
+CUST1093,Rachel Williams,36,Female,Mumbai,Single,Cash,Daily,Kalyani Nagar,Bopodi,22,24-05-2022,Aqua Line,18.5515,73.9001
+CUST1094,Mark Andrade,36,Male,Mumbai,Monthly Pass,Credit Card,Weekly,Bopodi,Ruby Hall Clinic,16,14-08-2024,Purple Line,18.5645,73.8456
+CUST1095,Scott Huang,44,Female,Mumbai,Monthly Pass,Cash,Daily,Kasba Peth,District Court,10,05-09-2023,Purple Line,18.52162948,73.85949608
+CUST1096,David Bird,62,Male,Mumbai,Monthly Pass,UPI,Occasionally,PCMC,Pune Railway Station,26,08-11-2024,Purple Line,18.62910766,73.80377477
+CUST1097,Micheal Fields,54,Male,Pune,Monthly Pass,Cash,Daily,Vanaz,Kasba Peth,24,08-09-2022,Aqua Line,18.5005,73.8077
+CUST1098,Jessica Cooper,63,Female,Mumbai,Monthly Pass,Net Banking,Occasionally,Anand Nagar,Ruby Hall Clinic,26,28-02-2023,Aqua Line,18.4956,73.8139
+CUST1099,Michael Harris,61,Female,Aurangabad,Monthly Pass,Cash,Occasionally,Shivaji Nagar,Kasba Peth,10,11-12-2024,Purple Line,18.5308,73.8524
+CUST1100,Kristen Davis,37,Female,Nagpur,Monthly Pass,Cash,Occasionally,Phugewadi,Shivaji Nagar,12,11-02-2024,Purple Line,18.592,73.829
+CUST1101,Joanna Morgan,54,Male,Aurangabad,Monthly Pass,UPI,Daily,Garware College,Ramwadi,28,09-12-2022,Aqua Line,18.5161,73.8345
+CUST1102,Sarah Wright,60,Female,Nagpur,Monthly Pass,Net Banking,Weekly,Bund Garden,Vanaz,30,23-08-2023,Aqua Line,18.5371,73.8842
+CUST1103,Charles Braun,64,Female,Aurangabad,Return,UPI,Daily,Shivaji Nagar,Bopodi,10,29-12-2023,Purple Line,18.5308,73.8524
+CUST1104,Kathryn Jackson,27,Male,Nagpur,Monthly Pass,Net Banking,Weekly,Vanaz,Kasba Peth,24,11-11-2024,Aqua Line,18.5005,73.8077
+CUST1105,Tristan Wilson,22,Male,Nashik,Return,Cash,Weekly,Mangalwar Peth,Mandai,10,29-06-2024,Aqua Line,18.5282,73.8623
+CUST1106,Todd Collier,50,Male,Nashik,Single,Credit Card,Weekly,Nal Stop,Bund Garden,24,24-12-2024,Aqua Line,18.5083,73.8296
+CUST1107,Julie Fitzgerald,37,Female,Pune,Return,UPI,Weekly,Mangalwar Peth,Chhatrapati Sambhaji Udyan,12,27-03-2024,Aqua Line,18.5282,73.8623
+CUST1108,Stacey Barrett,46,Female,Nashik,Monthly Pass,Credit Card,Occasionally,Yerwada,PMC,18,01-05-2023,Aqua Line,18.5486,73.8925
+CUST1109,Christopher Adams,34,Male,Mumbai,Single,Net Banking,Daily,Kalyani Nagar,Kasarwadi,28,11-04-2023,Aqua Line,18.5515,73.9001
+CUST1110,Michael Bailey,30,Male,Nashik,Return,Credit Card,Occasionally,Nal Stop,Swargate,22,14-12-2024,Aqua Line,18.5083,73.8296
+CUST1111,Krystal Stephenson,64,Female,Nagpur,Single,UPI,Daily,Shivaji Nagar,Sant Tukaram Nagar,18,19-09-2024,Purple Line,18.5308,73.8524
+CUST1112,Timothy Carey,59,Male,Aurangabad,Single,Cash,Daily,Mangalwar Peth,Anand Nagar,22,19-05-2022,Aqua Line,18.5282,73.8623
+CUST1113,Bianca Lucero,38,Female,Nashik,Monthly Pass,Cash,Weekly,Swargate,District Court,12,19-09-2024,Purple Line,18.5018,73.8586
+CUST1114,Samuel Mack,31,Female,Nashik,Monthly Pass,UPI,Occasionally,Sant Tukaram Nagar,Kasba Peth,22,02-10-2024,Purple Line,18.627,73.8075
+CUST1115,James Cameron Jr.,22,Male,Aurangabad,Monthly Pass,Credit Card,Occasionally,Kasba Peth,Yerwada,14,06-11-2022,Purple Line,18.52162948,73.85949608
+CUST1116,Susan Martin,57,Male,Nagpur,Monthly Pass,UPI,Daily,Kasba Peth,Swargate,10,25-12-2023,Purple Line,18.52162948,73.85949608
+CUST1117,Brandon Hall,43,Female,Nagpur,Single,Net Banking,Daily,Yerwada,Ideal Colony,28,12-01-2023,Aqua Line,18.5486,73.8925
+CUST1118,Amanda Anderson,18,Male,Pune,Return,Net Banking,Daily,Anand Nagar,Kasarwadi,10,05-07-2022,Aqua Line,18.4956,73.8139
+CUST1119,Andres Martinez,63,Female,Aurangabad,Return,UPI,Occasionally,District Court,Pune Railway Station,10,25-11-2024,Interchange Station,18.5204,73.8567
+CUST1120,Dawn Brown,30,Female,Pune,Monthly Pass,Credit Card,Occasionally,PMC,Mandai,12,16-10-2024,Aqua Line,18.5169,73.8535
+CUST1121,Joseph Marquez,29,Female,Nagpur,Monthly Pass,UPI,Daily,PCMC,Bopodi,18,13-09-2024,Purple Line,18.62910766,73.80377477
+CUST1122,Bobby Hendricks,26,Male,Aurangabad,Return,Credit Card,Weekly,District Court,Bhosari,18,19-12-2024,Interchange Station,18.5204,73.8567
+CUST1123,Antonio Henry,51,Female,Aurangabad,Return,Credit Card,Weekly,District Court,Yerwada,16,24-03-2022,Interchange Station,18.5204,73.8567
+CUST1124,Albert Torres,59,Female,Pune,Monthly Pass,Cash,Daily,Chhatrapati Sambhaji Udyan,Bhosari,14,31-07-2024,Aqua Line,18.5206,73.8441
+CUST1125,Brittany Chapman,36,Male,Mumbai,Monthly Pass,Net Banking,Daily,Mangalwar Peth,Kasarwadi,18,09-07-2023,Aqua Line,18.5282,73.8623
+CUST1126,Charles Werner,23,Male,Pune,Return,Credit Card,Occasionally,Kalyani Nagar,Bopodi,22,27-01-2024,Aqua Line,18.5515,73.9001
+CUST1127,Julia Mann,28,Male,Pune,Monthly Pass,UPI,Occasionally,Phugewadi,Bopodi,10,26-10-2023,Purple Line,18.592,73.829
+CUST1128,Ryan Alexander,18,Male,Mumbai,Single,UPI,Weekly,Vanaz,Phugewadi,14,21-08-2023,Aqua Line,18.5005,73.8077
+CUST1129,Carlos Johnson,21,Male,Nagpur,Single,Cash,Occasionally,PMC,Deccan Gymkhana,10,14-08-2022,Aqua Line,18.5169,73.8535
+CUST1130,James Martin MD,19,Female,Pune,Single,Credit Card,Daily,Bund Garden,Chhatrapati Sambhaji Udyan,18,03-02-2024,Aqua Line,18.5371,73.8842
+CUST1131,John Mercer,47,Male,Nagpur,Single,UPI,Weekly,Kasba Peth,District Court,10,24-06-2023,Purple Line,18.52162948,73.85949608
+CUST1132,Amanda Summers,38,Male,Mumbai,Monthly Pass,Net Banking,Weekly,Bund Garden,Chhatrapati Sambhaji Udyan,18,21-02-2022,Aqua Line,18.5371,73.8842
+CUST1133,Nicole Martin,32,Female,Nagpur,Monthly Pass,UPI,Occasionally,Ruby Hall Clinic,Bopodi,16,20-11-2023,Aqua Line,18.5341,73.8795
+CUST1134,Bonnie Atkinson,35,Female,Nashik,Monthly Pass,Credit Card,Weekly,District Court,Mangalwar Peth,10,06-04-2024,Interchange Station,18.5204,73.8567
+CUST1135,Megan Johnson,47,Male,Nagpur,Monthly Pass,Credit Card,Occasionally,Vanaz,Ideal Colony,10,16-11-2023,Aqua Line,18.5005,73.8077
+CUST1136,Thomas Morris,63,Female,Pune,Single,Net Banking,Occasionally,Shivaji Nagar,District Court,10,17-08-2022,Purple Line,18.5308,73.8524
+CUST1137,Lynn Dawson,31,Female,Pune,Single,Cash,Occasionally,District Court,Nal Stop,16,20-02-2024,Interchange Station,18.5204,73.8567
+CUST1138,James Nguyen,35,Female,Nagpur,Single,Net Banking,Daily,Chhatrapati Sambhaji Udyan,Sant Tukaram Nagar,16,24-05-2022,Aqua Line,18.5206,73.8441
+CUST1139,Tiffany Brooks,37,Male,Mumbai,Return,UPI,Occasionally,Anand Nagar,Phugewadi,12,24-02-2024,Aqua Line,18.4956,73.8139
+CUST1140,Courtney Freeman,29,Male,Nagpur,Single,Cash,Occasionally,Vanaz,Bhosari,10,04-09-2023,Aqua Line,18.5005,73.8077
+CUST1141,Gregory Lin,27,Female,Mumbai,Return,Net Banking,Weekly,PCMC,Bopodi,18,07-12-2024,Purple Line,18.62910766,73.80377477
+CUST1142,Mathew Rivera,47,Male,Nashik,Return,UPI,Weekly,Chhatrapati Sambhaji Udyan,Garware College,10,07-10-2023,Aqua Line,18.5206,73.8441
+CUST1143,Gabrielle Lutz,29,Female,Aurangabad,Return,Net Banking,Daily,PMC,Kasba Peth,10,27-01-2024,Aqua Line,18.5169,73.8535
+CUST1144,David Dunlap,30,Male,Mumbai,Single,UPI,Daily,Garware College,Kasarwadi,10,04-07-2023,Aqua Line,18.5161,73.8345
+CUST1145,Raven Robinson,45,Male,Aurangabad,Monthly Pass,UPI,Weekly,Dapodi,Phugewadi,10,06-01-2022,Purple Line,18.5783,73.8381
+CUST1146,Jeffrey Garcia,31,Male,Pune,Single,UPI,Occasionally,Chhatrapati Sambhaji Udyan,Garware College,10,22-10-2022,Aqua Line,18.5206,73.8441
+CUST1147,Craig Rowland,59,Male,Mumbai,Return,UPI,Daily,Pune Railway Station,Dapodi,16,23-03-2022,Aqua Line,18.5297,73.8726
+CUST1148,Cindy Haas,36,Male,Pune,Return,UPI,Daily,Nal Stop,Phugewadi,10,12-11-2024,Aqua Line,18.5083,73.8296
+CUST1149,Alexander Lowery,49,Male,Mumbai,Monthly Pass,Net Banking,Daily,Phugewadi,Kasba Peth,16,07-09-2024,Purple Line,18.592,73.829
+CUST1150,Brandi Castro,45,Female,Pune,Single,UPI,Weekly,Anand Nagar,Bund Garden,28,09-07-2024,Aqua Line,18.4956,73.8139
+CUST1151,Kathy Sims,52,Male,Aurangabad,Single,Cash,Occasionally,Kalyani Nagar,Kasarwadi,28,24-09-2023,Aqua Line,18.5515,73.9001
+CUST1152,Jeremiah Harris,36,Male,Mumbai,Single,Cash,Occasionally,Garware College,Bund Garden,22,25-08-2023,Aqua Line,18.5161,73.8345
+CUST1153,Patricia Smith,60,Female,Pune,Return,Credit Card,Weekly,Nal Stop,Bhosari,10,12-03-2023,Aqua Line,18.5083,73.8296
+CUST1154,Jeffrey Walsh,38,Female,Nashik,Monthly Pass,Credit Card,Occasionally,Kasarwadi,Nal Stop,10,06-08-2022,Purple Line,18.6069,73.8225
+CUST1155,Tiffany Logan,20,Male,Nashik,Return,UPI,Daily,Nal Stop,Bhosari,10,13-06-2024,Aqua Line,18.5083,73.8296
+CUST1156,Darius Green,39,Male,Aurangabad,Monthly Pass,Net Banking,Daily,Ramwadi,District Court,20,11-08-2023,Aqua Line,18.5583,73.9076
+CUST1157,Ryan Keith,49,Female,Nashik,Monthly Pass,Net Banking,Daily,Bund Garden,Garware College,22,27-12-2024,Aqua Line,18.5371,73.8842
+CUST1158,Joshua Brown,44,Male,Aurangabad,Single,Cash,Weekly,Mandai,Kalyani Nagar,14,31-12-2022,Purple Line,18.51,73.856
+CUST1159,Lawrence Curtis,59,Female,Pune,Monthly Pass,Net Banking,Occasionally,Kalyani Nagar,Kasba Peth,16,30-11-2023,Aqua Line,18.5515,73.9001
+CUST1160,Carrie Velasquez,29,Female,Nagpur,Single,Credit Card,Occasionally,Anand Nagar,Ideal Colony,10,12-10-2022,Aqua Line,18.4956,73.8139
+CUST1161,Jeffrey Nelson,32,Male,Nashik,Single,Net Banking,Occasionally,Ideal Colony,Garware College,10,23-08-2023,Aqua Line,18.4942,73.8203
+CUST1162,Kevin Sanders,57,Male,Nashik,Return,Credit Card,Daily,Anand Nagar,Kasba Peth,22,31-03-2022,Aqua Line,18.4956,73.8139
+CUST1163,Tracy Stout,48,Male,Nagpur,Single,Credit Card,Daily,Ideal Colony,Ramwadi,30,09-11-2022,Aqua Line,18.4942,73.8203
+CUST1164,Melissa Ramirez,44,Female,Pune,Single,Net Banking,Weekly,Ramwadi,Bund Garden,12,30-10-2023,Aqua Line,18.5583,73.9076
+CUST1165,Sarah Rodriguez,64,Female,Pune,Single,Cash,Weekly,Vanaz,PCMC,10,25-08-2024,Aqua Line,18.5005,73.8077
+CUST1166,Joseph Coleman,28,Female,Pune,Single,UPI,Daily,Mangalwar Peth,Swargate,10,06-02-2023,Aqua Line,18.5282,73.8623
+CUST1167,Danielle Villegas,40,Male,Nashik,Return,Net Banking,Daily,Anand Nagar,Bund Garden,28,15-07-2024,Aqua Line,18.4956,73.8139
+CUST1168,Margaret Lee,41,Male,Nashik,Return,UPI,Weekly,PMC,Shivaji Nagar,10,21-07-2022,Aqua Line,18.5169,73.8535
+CUST1169,Francisco Smith,20,Female,Mumbai,Return,Credit Card,Occasionally,Vanaz,Ruby Hall Clinic,28,22-07-2022,Aqua Line,18.5005,73.8077
+CUST1170,Kristina Martin,31,Female,Mumbai,Monthly Pass,Net Banking,Weekly,Pune Railway Station,Mangalwar Peth,10,05-02-2022,Aqua Line,18.5297,73.8726
+CUST1171,Eric Lee,28,Female,Pune,Single,Cash,Occasionally,Sant Tukaram Nagar,Deccan Gymkhana,14,03-04-2024,Purple Line,18.627,73.8075
+CUST1172,Cristian Davis,40,Male,Aurangabad,Return,UPI,Occasionally,Chhatrapati Sambhaji Udyan,Ideal Colony,14,09-11-2023,Aqua Line,18.5206,73.8441
+CUST1173,Troy Dixon,19,Male,Nashik,Return,Net Banking,Daily,PCMC,Vanaz,10,20-02-2022,Purple Line,18.62910766,73.80377477
+CUST1174,Emily Lamb,30,Female,Nagpur,Return,UPI,Daily,Kasarwadi,Anand Nagar,10,02-05-2022,Purple Line,18.6069,73.8225
+CUST1175,Tracy Cooper,59,Female,Mumbai,Single,UPI,Weekly,District Court,Shivaji Nagar,10,22-11-2024,Interchange Station,18.5204,73.8567
+CUST1176,Rachel Robertson,38,Male,Pune,Single,Credit Card,Occasionally,District Court,PCMC,22,18-03-2023,Interchange Station,18.5204,73.8567
+CUST1177,William Clark,45,Male,Nashik,Monthly Pass,Cash,Daily,Mangalwar Peth,Kasba Peth,10,17-04-2022,Aqua Line,18.5282,73.8623
+CUST1178,Stephanie Woodard,57,Female,Nashik,Return,Cash,Weekly,Sant Tukaram Nagar,Deccan Gymkhana,14,28-05-2022,Purple Line,18.627,73.8075
+CUST1179,William Alexander PhD,21,Male,Nagpur,Single,Cash,Weekly,Nal Stop,Sant Tukaram Nagar,10,01-10-2022,Aqua Line,18.5083,73.8296
+CUST1180,Eric Nelson,33,Female,Mumbai,Single,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,Mandai,14,16-05-2024,Aqua Line,18.5206,73.8441
+CUST1181,Renee Lee,49,Male,Aurangabad,Return,UPI,Occasionally,Kasba Peth,Dapodi,14,03-10-2024,Purple Line,18.52162948,73.85949608
+CUST1182,Ms. Regina Rodriguez,26,Male,Pune,Return,UPI,Weekly,Bund Garden,Shivaji Nagar,16,12-12-2022,Aqua Line,18.5371,73.8842
+CUST1183,Jennifer Clark,35,Male,Mumbai,Single,Net Banking,Weekly,Yerwada,District Court,16,12-01-2022,Aqua Line,18.5486,73.8925
+CUST1184,Jacob Horton,40,Female,Nashik,Monthly Pass,Net Banking,Occasionally,Deccan Gymkhana,Mandai,16,06-06-2023,Aqua Line,18.5204,73.8415
+CUST1185,Stephen Simmons,49,Female,Nashik,Monthly Pass,Credit Card,Occasionally,PCMC,Sant Tukaram Nagar,10,11-03-2023,Purple Line,18.62910766,73.80377477
+CUST1186,Laura Alexander,30,Male,Nashik,Monthly Pass,Net Banking,Daily,Nal Stop,Vanaz,12,05-01-2023,Aqua Line,18.5083,73.8296
+CUST1187,Katie Mercer,34,Male,Pune,Single,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,Mandai,14,27-10-2023,Aqua Line,18.5206,73.8441
+CUST1188,Selena Coleman,41,Male,Mumbai,Monthly Pass,Cash,Weekly,Garware College,Ruby Hall Clinic,20,19-09-2023,Aqua Line,18.5161,73.8345
+CUST1189,Gilbert Perez,65,Female,Mumbai,Single,UPI,Weekly,Kasarwadi,District Court,16,09-07-2024,Purple Line,18.6069,73.8225
+CUST1190,Shawn Vargas,61,Male,Pune,Monthly Pass,Credit Card,Daily,Deccan Gymkhana,Bhosari,12,24-08-2024,Aqua Line,18.5204,73.8415
+CUST1191,Greg Oliver,35,Female,Nagpur,Monthly Pass,Cash,Occasionally,Mandai,Pune Railway Station,10,12-11-2024,Purple Line,18.51,73.856
+CUST1192,April Navarro,19,Male,Mumbai,Return,Net Banking,Occasionally,District Court,Ideal Colony,18,02-07-2022,Interchange Station,18.5204,73.8567
+CUST1193,Kayla Pace,25,Male,Pune,Single,Cash,Occasionally,Chhatrapati Sambhaji Udyan,Phugewadi,10,01-03-2022,Aqua Line,18.5206,73.8441
+CUST1194,Amanda Meyers,60,Male,Nagpur,Monthly Pass,Cash,Occasionally,Kasarwadi,Mandai,20,13-01-2024,Purple Line,18.6069,73.8225
+CUST1195,Barbara Vance,25,Female,Mumbai,Return,Net Banking,Weekly,Swargate,Yerwada,10,17-05-2022,Purple Line,18.5018,73.8586
+CUST1196,Alexis Ferguson,21,Male,Aurangabad,Single,Credit Card,Daily,Anand Nagar,Sant Tukaram Nagar,10,23-07-2023,Aqua Line,18.4956,73.8139
+CUST1197,Brian Walker,63,Female,Aurangabad,Return,UPI,Occasionally,Mangalwar Peth,Yerwada,14,06-07-2023,Aqua Line,18.5282,73.8623
+CUST1198,Mitchell Johnson,50,Male,Nashik,Return,Cash,Daily,Dapodi,Kalyani Nagar,24,03-02-2022,Purple Line,18.5783,73.8381
+CUST1199,Robert Yang,42,Male,Nashik,Monthly Pass,Credit Card,Occasionally,Kasarwadi,Dapodi,10,18-11-2023,Purple Line,18.6069,73.8225
+CUST1200,Tammy Cummings,61,Female,Nashik,Monthly Pass,Net Banking,Occasionally,Pune Railway Station,PMC,12,24-03-2023,Aqua Line,18.5297,73.8726
+CUST1201,Laurie Williams,61,Male,Mumbai,Return,Cash,Weekly,Garware College,Vanaz,14,10-02-2022,Aqua Line,18.5161,73.8345
+CUST1202,Danielle Adams,26,Male,Nagpur,Single,Cash,Daily,Shivaji Nagar,Kasarwadi,14,29-03-2022,Purple Line,18.5308,73.8524
+CUST1203,April Williams,27,Male,Aurangabad,Single,Credit Card,Weekly,Ideal Colony,Swargate,24,20-06-2023,Aqua Line,18.4942,73.8203
+CUST1204,Darren Lewis,62,Female,Mumbai,Single,Net Banking,Occasionally,District Court,Mandai,10,28-04-2022,Interchange Station,18.5204,73.8567
+CUST1205,Vincent Gilbert,24,Male,Nashik,Single,Credit Card,Daily,Ramwadi,Nal Stop,30,10-03-2022,Aqua Line,18.5583,73.9076
+CUST1206,Jane Mendez DVM,45,Male,Nashik,Return,Credit Card,Weekly,District Court,Dapodi,12,02-03-2023,Interchange Station,18.5204,73.8567
+CUST1207,Richard Ray,27,Male,Nashik,Single,Credit Card,Daily,Dapodi,Mangalwar Peth,14,21-08-2022,Purple Line,18.5783,73.8381
+CUST1208,Michael Moore,59,Female,Pune,Monthly Pass,Cash,Weekly,PMC,Sant Tukaram Nagar,18,27-10-2023,Aqua Line,18.5169,73.8535
+CUST1209,Gary Bentley,31,Female,Nagpur,Return,UPI,Weekly,Garware College,Ruby Hall Clinic,20,13-11-2024,Aqua Line,18.5161,73.8345
+CUST1210,Jessica Bryant,21,Female,Aurangabad,Monthly Pass,Cash,Weekly,District Court,Swargate,12,07-07-2023,Interchange Station,18.5204,73.8567
+CUST1211,Suzanne Campbell,25,Male,Mumbai,Single,Credit Card,Weekly,PCMC,District Court,22,26-11-2023,Purple Line,18.62910766,73.80377477
+CUST1212,Terri Beard,54,Female,Mumbai,Single,Credit Card,Occasionally,Kasba Peth,Garware College,16,20-04-2022,Purple Line,18.52162948,73.85949608
+CUST1213,Martin Skinner,24,Male,Aurangabad,Return,Cash,Occasionally,Mandai,PMC,12,28-01-2023,Purple Line,18.51,73.856
+CUST1214,Jamie Wallace,41,Female,Aurangabad,Single,Net Banking,Daily,Kasarwadi,Kalyani Nagar,28,08-06-2024,Purple Line,18.6069,73.8225
+CUST1215,Wanda Brown,29,Male,Nashik,Single,Cash,Daily,Chhatrapati Sambhaji Udyan,District Court,10,12-08-2022,Aqua Line,18.5206,73.8441
+CUST1216,James Howard,18,Female,Aurangabad,Single,Credit Card,Occasionally,Pune Railway Station,Ruby Hall Clinic,10,26-10-2024,Aqua Line,18.5297,73.8726
+CUST1217,Claudia Sparks,33,Male,Nashik,Single,UPI,Weekly,Kalyani Nagar,Ideal Colony,30,29-05-2022,Aqua Line,18.5515,73.9001
+CUST1218,Isaiah Hampton,18,Female,Nashik,Single,Net Banking,Daily,Kasarwadi,Nal Stop,10,06-07-2022,Purple Line,18.6069,73.8225
+CUST1219,Jennifer Lewis,26,Male,Nagpur,Single,Cash,Daily,PMC,Garware College,12,07-05-2023,Aqua Line,18.5169,73.8535
+CUST1220,Megan Torres,25,Female,Pune,Monthly Pass,UPI,Weekly,Ruby Hall Clinic,Anand Nagar,26,02-06-2022,Aqua Line,18.5341,73.8795
+CUST1221,Steven Pham PhD,63,Male,Pune,Single,Net Banking,Occasionally,Deccan Gymkhana,Ramwadi,26,23-02-2022,Aqua Line,18.5204,73.8415
+CUST1222,Paul Wade,42,Male,Mumbai,Single,UPI,Occasionally,Bopodi,Ruby Hall Clinic,16,12-01-2023,Purple Line,18.5645,73.8456
+CUST1223,Brittany Martinez,60,Male,Mumbai,Single,Net Banking,Daily,Ideal Colony,Chhatrapati Sambhaji Udyan,14,10-03-2024,Aqua Line,18.4942,73.8203
+CUST1224,Melanie Hayes,52,Female,Aurangabad,Return,UPI,Daily,Bhosari,District Court,18,31-08-2023,Purple Line,18.6188,73.8136
+CUST1225,Roy Rosario,54,Female,Aurangabad,Return,UPI,Daily,Bopodi,Ramwadi,24,10-09-2022,Purple Line,18.5645,73.8456
+CUST1226,Taylor Parker,35,Female,Nagpur,Single,UPI,Weekly,Swargate,Phugewadi,20,18-09-2024,Purple Line,18.5018,73.8586
+CUST1227,Christopher Jones,34,Male,Pune,Monthly Pass,UPI,Daily,Garware College,Kalyani Nagar,26,01-09-2022,Aqua Line,18.5161,73.8345
+CUST1228,Alison Miller,41,Female,Nashik,Monthly Pass,Cash,Weekly,Bund Garden,Shivaji Nagar,16,03-08-2022,Aqua Line,18.5371,73.8842
+CUST1229,Marie Huerta,20,Female,Aurangabad,Return,UPI,Weekly,Kalyani Nagar,Mangalwar Peth,16,25-10-2023,Aqua Line,18.5515,73.9001
+CUST1230,Brittany Gilbert,26,Male,Mumbai,Return,Net Banking,Weekly,Swargate,Kalyani Nagar,12,18-11-2023,Purple Line,18.5018,73.8586
+CUST1231,Michael Anderson,56,Male,Aurangabad,Single,Credit Card,Daily,District Court,Kasba Peth,10,08-05-2022,Interchange Station,18.5204,73.8567
+CUST1232,Samuel Stewart,42,Male,Nagpur,Return,Credit Card,Occasionally,Pune Railway Station,Dapodi,16,14-06-2022,Aqua Line,18.5297,73.8726
+CUST1233,Mr. Tony Cooper MD,42,Male,Nagpur,Single,UPI,Weekly,Kalyani Nagar,Bopodi,22,02-01-2023,Aqua Line,18.5515,73.9001
+CUST1234,Allison Fernandez,28,Male,Pune,Return,UPI,Daily,PCMC,Anand Nagar,10,15-02-2022,Purple Line,18.62910766,73.80377477
+CUST1235,Briana Montgomery,37,Female,Nashik,Monthly Pass,Net Banking,Occasionally,Chhatrapati Sambhaji Udyan,Kasba Peth,12,08-01-2024,Aqua Line,18.5206,73.8441
+CUST1236,Kelly Jones,63,Male,Mumbai,Return,Credit Card,Daily,Dapodi,Kasba Peth,14,25-12-2023,Purple Line,18.5783,73.8381
+CUST1237,Stephen Wright,25,Male,Aurangabad,Monthly Pass,Cash,Occasionally,Mandai,Anand Nagar,24,24-06-2023,Purple Line,18.51,73.856
+CUST1238,Dr. James Johnson,46,Male,Nashik,Monthly Pass,Credit Card,Occasionally,Anand Nagar,Garware College,12,10-09-2024,Aqua Line,18.4956,73.8139
+CUST1239,Richard Sanchez,33,Male,Nagpur,Return,Cash,Daily,Bhosari,District Court,18,27-05-2023,Purple Line,18.6188,73.8136
+CUST1240,Miranda Ross,47,Male,Mumbai,Return,Credit Card,Occasionally,Deccan Gymkhana,District Court,12,06-12-2024,Aqua Line,18.5204,73.8415
+CUST1241,Patrick Brooks,61,Male,Nashik,Return,Cash,Daily,Kasba Peth,Vanaz,24,25-02-2022,Purple Line,18.52162948,73.85949608
+CUST1242,Doris Parrish,23,Female,Aurangabad,Single,Net Banking,Weekly,Kalyani Nagar,Anand Nagar,30,13-07-2024,Aqua Line,18.5515,73.9001
+CUST1243,Kenneth Goodman,37,Female,Nagpur,Single,UPI,Weekly,Vanaz,Ruby Hall Clinic,28,07-03-2024,Aqua Line,18.5005,73.8077
+CUST1244,Kimberly White,41,Female,Nashik,Single,Cash,Occasionally,Phugewadi,District Court,14,21-02-2024,Purple Line,18.592,73.829
+CUST1245,Ashley Torres,49,Male,Pune,Monthly Pass,Net Banking,Weekly,District Court,Sant Tukaram Nagar,20,26-09-2022,Interchange Station,18.5204,73.8567
+CUST1246,Melissa Jackson,59,Male,Nashik,Monthly Pass,Net Banking,Occasionally,Kasarwadi,PMC,14,04-08-2022,Purple Line,18.6069,73.8225
+CUST1247,Brenda Green,35,Male,Aurangabad,Monthly Pass,Cash,Daily,Garware College,Phugewadi,10,09-02-2024,Aqua Line,18.5161,73.8345
+CUST1248,Stephen Williams,62,Male,Pune,Return,Cash,Weekly,Bhosari,Vanaz,10,20-09-2023,Purple Line,18.6188,73.8136
+CUST1249,Tamara Blair,44,Female,Nagpur,Single,UPI,Daily,Dapodi,Kalyani Nagar,24,14-12-2023,Purple Line,18.5783,73.8381
+CUST1250,Ann Lamb,18,Female,Pune,Return,Cash,Occasionally,Dapodi,Swargate,18,18-11-2023,Purple Line,18.5783,73.8381
+CUST1251,Michelle Lee,26,Male,Pune,Single,Cash,Occasionally,PCMC,Kasba Peth,24,15-01-2022,Purple Line,18.62910766,73.80377477
+CUST1252,Donna Pollard,46,Female,Nagpur,Monthly Pass,UPI,Daily,Bund Garden,Phugewadi,22,31-03-2024,Aqua Line,18.5371,73.8842
+CUST1253,Joseph Lopez,60,Female,Pune,Return,Net Banking,Weekly,District Court,Kasba Peth,10,04-09-2023,Interchange Station,18.5204,73.8567
+CUST1254,Kelly Lang,60,Male,Aurangabad,Monthly Pass,UPI,Weekly,Kalyani Nagar,Ramwadi,10,12-10-2023,Aqua Line,18.5515,73.9001
+CUST1255,Travis Murillo,58,Male,Nashik,Return,Cash,Occasionally,Anand Nagar,Ideal Colony,10,01-03-2024,Aqua Line,18.4956,73.8139
+CUST1256,Keith Ruiz,51,Male,Nagpur,Single,Cash,Occasionally,Mangalwar Peth,Ramwadi,18,29-01-2023,Aqua Line,18.5282,73.8623
+CUST1257,Melissa Burke,63,Male,Nashik,Monthly Pass,Credit Card,Occasionally,Bopodi,Mandai,14,11-02-2024,Purple Line,18.5645,73.8456
+CUST1258,Cassandra Oconnor,41,Male,Mumbai,Single,Net Banking,Weekly,Kasba Peth,Bhosari,20,06-04-2024,Purple Line,18.52162948,73.85949608
+CUST1259,Patricia Miller,34,Male,Pune,Single,UPI,Daily,Vanaz,Swargate,28,12-05-2024,Aqua Line,18.5005,73.8077
+CUST1260,Christina Richardson,54,Female,Aurangabad,Monthly Pass,Cash,Occasionally,Shivaji Nagar,Yerwada,18,02-10-2024,Purple Line,18.5308,73.8524
+CUST1261,Ricky Wilson,50,Female,Pune,Single,Credit Card,Weekly,Shivaji Nagar,Garware College,12,08-09-2023,Purple Line,18.5308,73.8524
+CUST1262,Justin Garcia,26,Male,Mumbai,Monthly Pass,UPI,Occasionally,Phugewadi,Ramwadi,28,07-08-2022,Purple Line,18.592,73.829
+CUST1263,Wendy Espinoza,52,Female,Nashik,Single,Cash,Weekly,Chhatrapati Sambhaji Udyan,Ramwadi,24,29-11-2023,Aqua Line,18.5206,73.8441
+CUST1264,Daniel Frey,52,Female,Mumbai,Monthly Pass,Credit Card,Occasionally,Vanaz,District Court,22,28-10-2022,Aqua Line,18.5005,73.8077
+CUST1265,Eric Schmidt,20,Female,Nagpur,Return,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,PMC,10,25-10-2022,Aqua Line,18.5206,73.8441
+CUST1266,Craig Perkins,59,Male,Pune,Monthly Pass,Credit Card,Weekly,Deccan Gymkhana,Dapodi,10,25-07-2022,Aqua Line,18.5204,73.8415
+CUST1267,Wesley Williams,60,Male,Nashik,Monthly Pass,Net Banking,Weekly,Ruby Hall Clinic,PMC,14,27-01-2024,Aqua Line,18.5341,73.8795
+CUST1268,Christine Grant,30,Male,Pune,Return,Net Banking,Weekly,Bhosari,PMC,16,23-03-2024,Purple Line,18.6188,73.8136
+CUST1269,Jesse Burns,34,Female,Nagpur,Return,Cash,Occasionally,Ideal Colony,Garware College,10,14-06-2024,Aqua Line,18.4942,73.8203
+CUST1270,Molly Baker,46,Male,Nagpur,Monthly Pass,Net Banking,Daily,District Court,PMC,10,02-11-2023,Interchange Station,18.5204,73.8567
+CUST1271,Rebecca Brooks,34,Male,Pune,Monthly Pass,UPI,Weekly,PMC,Anand Nagar,18,05-12-2023,Aqua Line,18.5169,73.8535
+CUST1272,Kristen Davis,40,Female,Mumbai,Monthly Pass,Cash,Occasionally,Mangalwar Peth,Sant Tukaram Nagar,22,02-11-2022,Aqua Line,18.5282,73.8623
+CUST1273,Brittany Freeman,52,Female,Aurangabad,Return,Cash,Occasionally,Kasarwadi,Phugewadi,10,14-07-2024,Purple Line,18.6069,73.8225
+CUST1274,Jaime Smith,53,Female,Nashik,Single,UPI,Occasionally,Vanaz,Kasarwadi,12,20-09-2022,Aqua Line,18.5005,73.8077
+CUST1275,Steven Saunders,24,Male,Mumbai,Single,Cash,Weekly,Kasba Peth,Shivaji Nagar,10,10-10-2022,Purple Line,18.52162948,73.85949608
+CUST1276,John Wilkinson MD,54,Male,Nashik,Single,Credit Card,Weekly,Chhatrapati Sambhaji Udyan,Kasba Peth,12,24-11-2023,Aqua Line,18.5206,73.8441
+CUST1277,Roberto West,45,Male,Nashik,Return,Cash,Occasionally,Kasarwadi,District Court,16,13-03-2024,Purple Line,18.6069,73.8225
+CUST1278,Michael Brown,39,Male,Aurangabad,Single,UPI,Daily,Pune Railway Station,Mandai,10,01-05-2023,Aqua Line,18.5297,73.8726
+CUST1279,Angela Greene,42,Male,Mumbai,Return,Cash,Daily,Mangalwar Peth,Anand Nagar,22,04-10-2023,Aqua Line,18.5282,73.8623
+CUST1280,Robert Flores,47,Female,Nashik,Return,Credit Card,Weekly,PCMC,Mandai,26,30-04-2024,Purple Line,18.62910766,73.80377477
+CUST1281,April Garrett,27,Female,Nashik,Return,Cash,Occasionally,Kasarwadi,Kasba Peth,18,06-10-2022,Purple Line,18.6069,73.8225
+CUST1282,Jacob Green,59,Male,Nagpur,Single,Credit Card,Daily,Ruby Hall Clinic,PCMC,28,11-11-2023,Aqua Line,18.5341,73.8795
+CUST1283,Nathan Lawson,48,Male,Pune,Monthly Pass,Credit Card,Occasionally,Sant Tukaram Nagar,Kasba Peth,22,04-03-2024,Purple Line,18.627,73.8075
+CUST1284,Juan Rodriguez,64,Female,Mumbai,Monthly Pass,UPI,Occasionally,Kalyani Nagar,Yerwada,10,01-03-2024,Aqua Line,18.5515,73.9001
+CUST1285,Justin Hall,38,Female,Aurangabad,Single,Net Banking,Weekly,Phugewadi,PMC,12,15-02-2023,Purple Line,18.592,73.829
+CUST1286,Misty Scott,65,Female,Aurangabad,Return,Credit Card,Occasionally,Bopodi,District Court,10,24-04-2022,Purple Line,18.5645,73.8456
+CUST1287,Chelsea Harris,60,Male,Nagpur,Return,UPI,Occasionally,Kasarwadi,Dapodi,10,13-03-2023,Purple Line,18.6069,73.8225
+CUST1288,Larry Thomas,44,Male,Nashik,Monthly Pass,Credit Card,Daily,Kalyani Nagar,Garware College,26,23-12-2022,Aqua Line,18.5515,73.9001
+CUST1289,Colleen Murphy,52,Male,Mumbai,Single,Cash,Occasionally,PCMC,Kasarwadi,12,11-02-2022,Purple Line,18.62910766,73.80377477
+CUST1290,Maurice Hubbard,31,Female,Mumbai,Return,Cash,Daily,Ideal Colony,Shivaji Nagar,16,20-11-2022,Aqua Line,18.4942,73.8203
+CUST1291,Karen Nash,23,Male,Nagpur,Return,UPI,Occasionally,Swargate,Garware College,20,09-12-2023,Purple Line,18.5018,73.8586
+CUST1292,Marcus Pittman,46,Female,Mumbai,Monthly Pass,Net Banking,Daily,Ruby Hall Clinic,Deccan Gymkhana,18,13-07-2024,Aqua Line,18.5341,73.8795
+CUST1293,Hector Martin,37,Female,Aurangabad,Return,Net Banking,Occasionally,Ideal Colony,Mandai,22,29-11-2023,Aqua Line,18.4942,73.8203
+CUST1294,Kevin Rodriguez,51,Female,Pune,Monthly Pass,Net Banking,Weekly,Kasba Peth,Phugewadi,16,21-01-2023,Purple Line,18.52162948,73.85949608
+CUST1295,Marie Walker,45,Female,Nashik,Single,Credit Card,Weekly,Anand Nagar,Deccan Gymkhana,14,10-07-2022,Aqua Line,18.4956,73.8139
+CUST1296,Jesse Newman,31,Male,Aurangabad,Return,Net Banking,Daily,Yerwada,Mangalwar Peth,14,17-12-2023,Aqua Line,18.5486,73.8925
+CUST1297,Destiny Williams,28,Female,Nashik,Single,Net Banking,Occasionally,Anand Nagar,Shivaji Nagar,18,03-12-2022,Aqua Line,18.4956,73.8139
+CUST1298,Christopher Hicks,44,Female,Aurangabad,Single,Net Banking,Daily,Garware College,Deccan Gymkhana,10,12-12-2022,Aqua Line,18.5161,73.8345
+CUST1299,Amanda Perez,28,Male,Nashik,Single,Credit Card,Weekly,Kasba Peth,PCMC,24,02-11-2022,Purple Line,18.52162948,73.85949608
+CUST1300,Ethan Martinez,65,Male,Pune,Single,Net Banking,Occasionally,Kasarwadi,Kalyani Nagar,28,05-03-2022,Purple Line,18.6069,73.8225
+CUST1301,Melanie Brooks,45,Female,Pune,Single,Cash,Daily,Chhatrapati Sambhaji Udyan,Kasba Peth,12,14-03-2022,Aqua Line,18.5206,73.8441
+CUST1302,Colton Smith,50,Male,Nagpur,Single,Net Banking,Daily,PCMC,Pune Railway Station,26,23-03-2023,Purple Line,18.62910766,73.80377477
+CUST1303,Joseph Castro,65,Female,Nashik,Monthly Pass,Net Banking,Occasionally,Pune Railway Station,Ideal Colony,22,26-05-2023,Aqua Line,18.5297,73.8726
+CUST1304,Gregory White,19,Male,Pune,Return,UPI,Occasionally,Bund Garden,Yerwada,10,22-08-2022,Aqua Line,18.5371,73.8842
+CUST1305,Danielle Herrera,64,Female,Mumbai,Return,Net Banking,Occasionally,Shivaji Nagar,Ideal Colony,16,13-10-2023,Purple Line,18.5308,73.8524
+CUST1306,Mark Watts,47,Male,Nagpur,Monthly Pass,UPI,Occasionally,Nal Stop,Bopodi,12,15-04-2022,Aqua Line,18.5083,73.8296
+CUST1307,Louis Davila,28,Male,Mumbai,Return,UPI,Occasionally,Bhosari,Ideal Colony,10,02-07-2022,Purple Line,18.6188,73.8136
+CUST1308,David Lam,49,Male,Nagpur,Monthly Pass,Cash,Daily,Bhosari,Shivaji Nagar,16,30-09-2022,Purple Line,18.6188,73.8136
+CUST1309,Taylor Christian,26,Female,Aurangabad,Return,Cash,Daily,Bhosari,PMC,16,16-09-2022,Purple Line,18.6188,73.8136
+CUST1310,Thomas Jackson,56,Female,Nashik,Monthly Pass,UPI,Occasionally,Yerwada,Ramwadi,10,29-06-2024,Aqua Line,18.5486,73.8925
+CUST1311,Julie Gonzalez,63,Female,Pune,Return,Credit Card,Daily,Garware College,District Court,14,13-10-2023,Aqua Line,18.5161,73.8345
+CUST1312,Kathleen Butler,30,Male,Nashik,Return,Cash,Weekly,Kalyani Nagar,Pune Railway Station,14,20-08-2022,Aqua Line,18.5515,73.9001
+CUST1313,Jermaine Koch,39,Female,Nashik,Monthly Pass,UPI,Occasionally,Phugewadi,Kasba Peth,16,20-02-2024,Purple Line,18.592,73.829
+CUST1314,Robin Hammond,29,Female,Nagpur,Single,UPI,Daily,Vanaz,Bund Garden,30,21-09-2024,Aqua Line,18.5005,73.8077
+CUST1315,Chelsea Smith,30,Female,Mumbai,Single,UPI,Weekly,Dapodi,Shivaji Nagar,10,17-11-2024,Purple Line,18.5783,73.8381
+CUST1316,Kathryn Nunez,49,Female,Mumbai,Single,UPI,Weekly,Ruby Hall Clinic,Nal Stop,22,27-09-2022,Aqua Line,18.5341,73.8795
+CUST1317,Laura Fry,33,Female,Mumbai,Return,Credit Card,Daily,Shivaji Nagar,PMC,10,06-12-2024,Purple Line,18.5308,73.8524
+CUST1318,Jessica Lewis,25,Female,Aurangabad,Single,Credit Card,Occasionally,Ruby Hall Clinic,Kasba Peth,10,21-11-2024,Aqua Line,18.5341,73.8795
+CUST1319,Virginia Jackson,22,Male,Pune,Single,Net Banking,Occasionally,Bopodi,Ramwadi,24,03-07-2024,Purple Line,18.5645,73.8456
+CUST1320,Jimmy Perry,47,Female,Nagpur,Monthly Pass,Net Banking,Weekly,Sant Tukaram Nagar,Ideal Colony,10,29-05-2022,Purple Line,18.627,73.8075
+CUST1321,Scott Griffin,18,Male,Nagpur,Single,UPI,Daily,Garware College,Nal Stop,10,26-08-2022,Aqua Line,18.5161,73.8345
+CUST1322,Janice Camacho,22,Male,Pune,Monthly Pass,Credit Card,Weekly,PCMC,Chhatrapati Sambhaji Udyan,18,08-11-2024,Purple Line,18.62910766,73.80377477
+CUST1323,Manuel Baldwin,29,Male,Nagpur,Single,Net Banking,Daily,Kasarwadi,Mangalwar Peth,18,06-09-2024,Purple Line,18.6069,73.8225
+CUST1324,Laura Palmer,35,Male,Mumbai,Monthly Pass,Net Banking,Occasionally,Ruby Hall Clinic,Mangalwar Peth,10,27-11-2024,Aqua Line,18.5341,73.8795
+CUST1325,Kevin Johnson,23,Male,Pune,Single,Cash,Occasionally,Kalyani Nagar,Kasba Peth,16,14-05-2022,Aqua Line,18.5515,73.9001
+CUST1326,Megan Mejia,34,Male,Pune,Return,UPI,Daily,Phugewadi,Vanaz,14,21-09-2024,Purple Line,18.592,73.829
+CUST1327,Kimberly Daniels,20,Female,Aurangabad,Return,Net Banking,Weekly,PMC,Mandai,12,11-06-2023,Aqua Line,18.5169,73.8535
+CUST1328,Kelsey Graves,28,Female,Nashik,Monthly Pass,UPI,Daily,District Court,Bund Garden,14,29-09-2022,Interchange Station,18.5204,73.8567
+CUST1329,Nathan Boyd,48,Male,Mumbai,Return,Credit Card,Daily,Ideal Colony,PMC,16,21-01-2023,Aqua Line,18.4942,73.8203
+CUST1330,Ryan Hicks,55,Male,Nagpur,Single,Credit Card,Daily,Dapodi,Bhosari,12,02-06-2023,Purple Line,18.5783,73.8381
+CUST1331,Charles Whitney,39,Female,Nashik,Single,Cash,Occasionally,PCMC,Chhatrapati Sambhaji Udyan,18,25-12-2022,Purple Line,18.62910766,73.80377477
+CUST1332,Clinton Cooper,42,Female,Pune,Single,Net Banking,Occasionally,Phugewadi,Bund Garden,22,16-02-2024,Purple Line,18.592,73.829
+CUST1333,Monica Alvarez,25,Female,Aurangabad,Monthly Pass,Net Banking,Occasionally,Ideal Colony,Deccan Gymkhana,12,14-12-2023,Aqua Line,18.4942,73.8203
+CUST1334,Patricia Gray,45,Male,Nagpur,Monthly Pass,UPI,Occasionally,Ideal Colony,Sant Tukaram Nagar,10,20-01-2023,Aqua Line,18.4942,73.8203
+CUST1335,Christopher Brown,32,Female,Nashik,Return,UPI,Occasionally,Bund Garden,District Court,14,25-04-2023,Aqua Line,18.5371,73.8842
+CUST1336,Anthony English,63,Female,Aurangabad,Single,Credit Card,Daily,Yerwada,Mandai,12,08-04-2022,Aqua Line,18.5486,73.8925
+CUST1337,Richard Hicks,23,Female,Nashik,Monthly Pass,Net Banking,Daily,District Court,Ruby Hall Clinic,12,15-08-2024,Interchange Station,18.5204,73.8567
+CUST1338,Anthony Potter,28,Male,Nashik,Single,Credit Card,Occasionally,Dapodi,District Court,12,22-09-2024,Purple Line,18.5783,73.8381
+CUST1339,Sean Cooke,51,Female,Nagpur,Monthly Pass,Credit Card,Daily,Sant Tukaram Nagar,PMC,18,07-07-2023,Purple Line,18.627,73.8075
+CUST1340,Louis Camacho,21,Male,Nagpur,Single,Net Banking,Occasionally,Sant Tukaram Nagar,Pune Railway Station,24,26-10-2024,Purple Line,18.627,73.8075
+CUST1341,Jenna Casey,28,Male,Nagpur,Monthly Pass,UPI,Daily,PCMC,District Court,22,06-04-2022,Purple Line,18.62910766,73.80377477
+CUST1342,Amber Lynch,21,Male,Pune,Return,Credit Card,Weekly,Chhatrapati Sambhaji Udyan,Bhosari,14,20-02-2024,Aqua Line,18.5206,73.8441
+CUST1343,Bruce Butler,64,Female,Nashik,Single,Credit Card,Daily,Kasba Peth,PMC,10,08-12-2022,Purple Line,18.52162948,73.85949608
+CUST1344,Karen Gonzalez,35,Female,Mumbai,Return,Cash,Occasionally,Mandai,Sant Tukaram Nagar,24,02-10-2023,Purple Line,18.51,73.856
+CUST1345,Ian Johnson,65,Female,Mumbai,Monthly Pass,Cash,Weekly,Anand Nagar,Bund Garden,28,04-05-2023,Aqua Line,18.4956,73.8139
+CUST1346,Jenna Gomez,52,Male,Nagpur,Single,Cash,Occasionally,Shivaji Nagar,District Court,10,23-09-2022,Purple Line,18.5308,73.8524
+CUST1347,Nicole Campbell,62,Male,Mumbai,Single,Cash,Daily,Ramwadi,Mangalwar Peth,18,10-09-2023,Aqua Line,18.5583,73.9076
+CUST1348,Joshua Perez,51,Female,Pune,Single,Cash,Daily,Chhatrapati Sambhaji Udyan,Swargate,16,18-12-2024,Aqua Line,18.5206,73.8441
+CUST1349,Brandon Williams,29,Male,Nagpur,Single,UPI,Occasionally,District Court,Bopodi,10,06-12-2022,Interchange Station,18.5204,73.8567
+CUST1350,Michael Rodriguez,37,Male,Mumbai,Single,UPI,Occasionally,Pune Railway Station,Ramwadi,16,16-03-2024,Aqua Line,18.5297,73.8726
+CUST1351,Erica Klein,45,Male,Aurangabad,Single,UPI,Weekly,Shivaji Nagar,PCMC,20,22-06-2022,Purple Line,18.5308,73.8524
+CUST1352,Shawn Dunn,44,Female,Nashik,Single,Cash,Daily,Sant Tukaram Nagar,Phugewadi,12,12-04-2024,Purple Line,18.627,73.8075
+CUST1353,Cassandra Brewer,46,Male,Nagpur,Single,Net Banking,Daily,Deccan Gymkhana,Dapodi,10,26-06-2023,Aqua Line,18.5204,73.8415
+CUST1354,David Stewart,57,Male,Nagpur,Single,Cash,Weekly,PCMC,District Court,22,25-03-2024,Purple Line,18.62910766,73.80377477
+CUST1355,Jacob Melton,47,Female,Pune,Monthly Pass,Net Banking,Weekly,Swargate,Bhosari,24,08-09-2024,Purple Line,18.5018,73.8586
+CUST1356,Jessica Anderson,45,Female,Mumbai,Monthly Pass,Credit Card,Occasionally,Chhatrapati Sambhaji Udyan,Bopodi,10,15-03-2022,Aqua Line,18.5206,73.8441
+CUST1357,James Alvarado,38,Female,Nashik,Return,Cash,Occasionally,Kalyani Nagar,Bhosari,30,09-07-2023,Aqua Line,18.5515,73.9001
+CUST1358,Carol Cooper,23,Female,Pune,Single,Credit Card,Weekly,Anand Nagar,Sant Tukaram Nagar,10,24-10-2023,Aqua Line,18.4956,73.8139
+CUST1359,Patrick Pierce,31,Female,Mumbai,Return,Cash,Daily,Nal Stop,Garware College,10,05-04-2024,Aqua Line,18.5083,73.8296
+CUST1360,Christina Williams,24,Female,Mumbai,Single,Cash,Daily,Anand Nagar,Swargate,26,25-11-2023,Aqua Line,18.4956,73.8139
+CUST1361,Nicole Kramer,34,Female,Nashik,Single,Credit Card,Daily,Nal Stop,Dapodi,10,03-06-2022,Aqua Line,18.5083,73.8296
+CUST1362,Christine Smith,39,Male,Nashik,Return,Credit Card,Daily,Ramwadi,Mandai,16,28-12-2024,Aqua Line,18.5583,73.9076
+CUST1363,Charles Barber,19,Female,Pune,Monthly Pass,Credit Card,Daily,District Court,Ruby Hall Clinic,12,09-11-2023,Interchange Station,18.5204,73.8567
+CUST1364,Joseph Collins,40,Male,Pune,Monthly Pass,Net Banking,Occasionally,Pune Railway Station,Kasarwadi,20,11-07-2022,Aqua Line,18.5297,73.8726
+CUST1365,Crystal Patrick MD,52,Male,Pune,Monthly Pass,Net Banking,Occasionally,Garware College,PCMC,14,06-01-2023,Aqua Line,18.5161,73.8345
+CUST1366,Nicole Pittman,25,Female,Pune,Single,Credit Card,Occasionally,District Court,Mangalwar Peth,10,27-12-2023,Interchange Station,18.5204,73.8567
+CUST1367,Kayla Johnson,24,Female,Nagpur,Return,Net Banking,Daily,Bopodi,District Court,10,11-05-2022,Purple Line,18.5645,73.8456
+CUST1368,Lisa Blair,27,Female,Nashik,Single,Cash,Occasionally,District Court,Kasarwadi,16,09-03-2022,Interchange Station,18.5204,73.8567
+CUST1369,Victor Jackson,62,Female,Aurangabad,Single,Cash,Occasionally,Bund Garden,PCMC,30,14-09-2024,Aqua Line,18.5371,73.8842
+CUST1370,Jessica Hughes,54,Male,Nagpur,Monthly Pass,Cash,Weekly,Swargate,Garware College,20,22-11-2024,Purple Line,18.5018,73.8586
+CUST1371,Autumn Harris,19,Male,Mumbai,Return,Credit Card,Weekly,Garware College,Deccan Gymkhana,10,28-11-2023,Aqua Line,18.5161,73.8345
+CUST1372,Beth Butler,20,Male,Aurangabad,Monthly Pass,Cash,Occasionally,Ruby Hall Clinic,Bund Garden,10,21-08-2024,Aqua Line,18.5341,73.8795
+CUST1373,Mr. David Hartman,22,Female,Nashik,Return,UPI,Daily,Nal Stop,Bhosari,10,25-07-2022,Aqua Line,18.5083,73.8296
+CUST1374,Heather Lopez,64,Male,Nashik,Monthly Pass,UPI,Weekly,Anand Nagar,PMC,18,18-07-2022,Aqua Line,18.4956,73.8139
+CUST1375,Dylan Ray,58,Female,Aurangabad,Return,Net Banking,Occasionally,Pune Railway Station,Shivaji Nagar,12,05-02-2024,Aqua Line,18.5297,73.8726
+CUST1376,Adam Coffey,35,Male,Nashik,Monthly Pass,Cash,Occasionally,Kasarwadi,Vanaz,12,01-10-2024,Purple Line,18.6069,73.8225
+CUST1377,Dominique Acevedo,52,Female,Nashik,Monthly Pass,Credit Card,Daily,Anand Nagar,Kasarwadi,10,08-07-2022,Aqua Line,18.4956,73.8139
+CUST1378,Dr. Marcus Taylor,36,Male,Nashik,Monthly Pass,Net Banking,Occasionally,Garware College,Phugewadi,10,23-04-2024,Aqua Line,18.5161,73.8345
+CUST1379,Michael Stewart,56,Male,Pune,Monthly Pass,Net Banking,Occasionally,Pune Railway Station,Kasba Peth,10,19-07-2022,Aqua Line,18.5297,73.8726
+CUST1380,Charles Ramirez,38,Female,Nashik,Single,UPI,Occasionally,Garware College,Ideal Colony,10,12-06-2024,Aqua Line,18.5161,73.8345
+CUST1381,Douglas Jones,37,Female,Aurangabad,Return,Net Banking,Weekly,Pune Railway Station,Sant Tukaram Nagar,24,08-01-2022,Aqua Line,18.5297,73.8726
+CUST1382,Michael Kelley,24,Female,Mumbai,Single,Credit Card,Occasionally,Nal Stop,Garware College,10,13-03-2022,Aqua Line,18.5083,73.8296
+CUST1383,Veronica Rogers,59,Male,Nashik,Monthly Pass,UPI,Weekly,Anand Nagar,Deccan Gymkhana,14,01-02-2024,Aqua Line,18.4956,73.8139
+CUST1384,Lawrence Medina,19,Male,Mumbai,Monthly Pass,Cash,Daily,Ruby Hall Clinic,District Court,12,21-09-2024,Aqua Line,18.5341,73.8795
+CUST1385,Megan Cooper,42,Male,Mumbai,Single,Cash,Occasionally,Nal Stop,Bund Garden,24,10-07-2022,Aqua Line,18.5083,73.8296
+CUST1386,Evan Gaines,65,Female,Nagpur,Monthly Pass,Cash,Occasionally,Ramwadi,PMC,22,20-05-2023,Aqua Line,18.5583,73.9076
+CUST1387,Scott Bradley,41,Male,Nagpur,Single,Credit Card,Occasionally,Kalyani Nagar,Bhosari,30,21-03-2024,Aqua Line,18.5515,73.9001
+CUST1388,Sarah Smith,28,Female,Nashik,Monthly Pass,UPI,Daily,Garware College,Mandai,18,15-11-2022,Aqua Line,18.5161,73.8345
+CUST1389,Ashley Cross,44,Female,Aurangabad,Monthly Pass,Credit Card,Occasionally,Anand Nagar,Deccan Gymkhana,14,14-09-2023,Aqua Line,18.4956,73.8139
+CUST1390,Heather Anderson,31,Female,Pune,Return,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,PMC,10,08-10-2022,Aqua Line,18.5206,73.8441
+CUST1391,Andrea Guzman,18,Male,Nagpur,Single,Cash,Occasionally,Mandai,Shivaji Nagar,12,04-06-2023,Purple Line,18.51,73.856
+CUST1392,Diane Garza,26,Female,Pune,Single,UPI,Occasionally,Swargate,Nal Stop,22,20-03-2024,Purple Line,18.5018,73.8586
+CUST1393,Joyce Wilson,19,Female,Mumbai,Return,Cash,Daily,Deccan Gymkhana,PMC,10,15-07-2022,Aqua Line,18.5204,73.8415
+CUST1394,April Oliver,27,Male,Pune,Monthly Pass,Net Banking,Occasionally,District Court,Bopodi,10,31-08-2024,Interchange Station,18.5204,73.8567
+CUST1395,Carolyn Stanton,60,Female,Mumbai,Monthly Pass,Credit Card,Occasionally,Mangalwar Peth,Swargate,10,09-10-2024,Aqua Line,18.5282,73.8623
+CUST1396,Eric Page,25,Male,Mumbai,Return,UPI,Occasionally,Ideal Colony,Dapodi,12,29-01-2024,Aqua Line,18.4942,73.8203
+CUST1397,Caitlin Phillips,46,Male,Nagpur,Monthly Pass,Credit Card,Occasionally,Swargate,Sant Tukaram Nagar,26,07-05-2024,Purple Line,18.5018,73.8586
+CUST1398,John Weeks,65,Female,Aurangabad,Return,Credit Card,Occasionally,District Court,Deccan Gymkhana,12,16-01-2024,Interchange Station,18.5204,73.8567
+CUST1399,Joseph Jordan,61,Male,Nagpur,Single,Net Banking,Occasionally,Mangalwar Peth,Ruby Hall Clinic,10,29-01-2022,Aqua Line,18.5282,73.8623
+CUST1400,Eric Ingram,60,Female,Nagpur,Return,UPI,Weekly,Kasba Peth,Phugewadi,16,06-03-2022,Purple Line,18.52162948,73.85949608
+CUST1401,Amber White,52,Male,Nashik,Monthly Pass,UPI,Daily,Bhosari,Kasba Peth,20,19-05-2022,Purple Line,18.6188,73.8136
+CUST1402,Johnny Morales,29,Male,Nagpur,Monthly Pass,Net Banking,Weekly,Phugewadi,Yerwada,24,12-01-2023,Purple Line,18.592,73.829
+CUST1403,Chad Brown,23,Male,Nashik,Return,UPI,Weekly,Kasba Peth,Kalyani Nagar,16,15-08-2022,Purple Line,18.52162948,73.85949608
+CUST1404,Megan Hanson,50,Male,Mumbai,Single,Net Banking,Daily,Anand Nagar,Ramwadi,30,01-04-2022,Aqua Line,18.4956,73.8139
+CUST1405,Dr. Mark Green,52,Male,Mumbai,Return,Credit Card,Weekly,Bund Garden,Nal Stop,24,03-03-2024,Aqua Line,18.5371,73.8842
+CUST1406,Jeffrey Myers,32,Female,Aurangabad,Return,Cash,Occasionally,PCMC,Shivaji Nagar,20,08-08-2024,Purple Line,18.62910766,73.80377477
+CUST1407,Patrick Parker,21,Male,Nashik,Return,Credit Card,Daily,District Court,Mandai,10,20-05-2022,Interchange Station,18.5204,73.8567
+CUST1408,Eugene Payne,49,Female,Pune,Monthly Pass,UPI,Weekly,Kalyani Nagar,Bund Garden,10,21-01-2023,Aqua Line,18.5515,73.9001
+CUST1409,Jack Austin,23,Female,Pune,Return,Net Banking,Daily,Pune Railway Station,Chhatrapati Sambhaji Udyan,14,22-10-2023,Aqua Line,18.5297,73.8726
+CUST1410,Michael Zhang,36,Male,Pune,Return,Credit Card,Daily,Mandai,Kalyani Nagar,14,01-01-2022,Purple Line,18.51,73.856
+CUST1411,Erin Lee,32,Male,Pune,Single,Net Banking,Occasionally,Pune Railway Station,Bund Garden,10,08-11-2022,Aqua Line,18.5297,73.8726
+CUST1412,Kristen Wilson,52,Male,Mumbai,Return,Credit Card,Weekly,Garware College,Vanaz,14,25-08-2023,Aqua Line,18.5161,73.8345
+CUST1413,Edward Simpson,30,Female,Aurangabad,Return,Credit Card,Daily,Phugewadi,Dapodi,10,09-08-2023,Purple Line,18.592,73.829
+CUST1414,Dr. Brittany Snyder,65,Male,Aurangabad,Single,Net Banking,Daily,Dapodi,Deccan Gymkhana,10,16-12-2024,Purple Line,18.5783,73.8381
+CUST1415,Matthew Frazier,45,Male,Nagpur,Single,Cash,Occasionally,Mandai,Dapodi,16,17-03-2022,Purple Line,18.51,73.856
+CUST1416,Deborah Salas,53,Male,Pune,Monthly Pass,Net Banking,Occasionally,District Court,Phugewadi,14,04-10-2022,Interchange Station,18.5204,73.8567
+CUST1417,Michelle Anderson,20,Female,Mumbai,Return,Credit Card,Daily,Yerwada,Sant Tukaram Nagar,30,25-11-2024,Aqua Line,18.5486,73.8925
+CUST1418,Dr. Joseph Elliott,38,Male,Nashik,Monthly Pass,UPI,Daily,Chhatrapati Sambhaji Udyan,Phugewadi,10,28-05-2023,Aqua Line,18.5206,73.8441
+CUST1419,Hayley Valencia,23,Male,Aurangabad,Return,Cash,Daily,Nal Stop,Pune Railway Station,20,24-09-2023,Aqua Line,18.5083,73.8296
+CUST1420,Regina Fisher,30,Male,Nagpur,Single,Credit Card,Occasionally,Ruby Hall Clinic,Sant Tukaram Nagar,26,08-05-2023,Aqua Line,18.5341,73.8795
+CUST1421,James Nelson,24,Male,Pune,Return,UPI,Weekly,Bhosari,Shivaji Nagar,16,21-02-2024,Purple Line,18.6188,73.8136
+CUST1422,William Burgess,18,Male,Pune,Monthly Pass,Credit Card,Daily,Sant Tukaram Nagar,Mangalwar Peth,22,16-03-2024,Purple Line,18.627,73.8075
+CUST1423,Albert Fleming,54,Female,Aurangabad,Monthly Pass,Cash,Daily,Anand Nagar,Kalyani Nagar,30,19-01-2024,Aqua Line,18.4956,73.8139
+CUST1424,Jeffery Mclaughlin,25,Female,Aurangabad,Single,Net Banking,Weekly,District Court,Bhosari,18,20-04-2024,Interchange Station,18.5204,73.8567
+CUST1425,Ashley Davis,26,Female,Aurangabad,Monthly Pass,Net Banking,Weekly,Phugewadi,Chhatrapati Sambhaji Udyan,10,18-10-2024,Purple Line,18.592,73.829
+CUST1426,Raymond Fritz,21,Male,Mumbai,Monthly Pass,Net Banking,Daily,District Court,Kalyani Nagar,18,22-04-2022,Interchange Station,18.5204,73.8567
+CUST1427,David Young,48,Female,Nagpur,Return,Credit Card,Occasionally,Ideal Colony,Kasarwadi,10,24-09-2022,Aqua Line,18.4942,73.8203
+CUST1428,Albert Sutton Jr.,57,Male,Aurangabad,Return,Cash,Daily,PMC,District Court,10,05-10-2023,Aqua Line,18.5169,73.8535
+CUST1429,Chase Singleton,47,Male,Nashik,Return,UPI,Weekly,Kasarwadi,Pune Railway Station,20,02-12-2022,Purple Line,18.6069,73.8225
+CUST1430,Patricia Bell,31,Male,Nagpur,Monthly Pass,Cash,Occasionally,Garware College,Yerwada,24,04-09-2022,Aqua Line,18.5161,73.8345
+CUST1431,Anne Baker,54,Female,Mumbai,Single,Net Banking,Occasionally,Dapodi,Kasba Peth,14,27-01-2022,Purple Line,18.5783,73.8381
+CUST1432,Samuel Johnson,37,Female,Nagpur,Monthly Pass,Credit Card,Occasionally,Anand Nagar,PCMC,10,22-02-2023,Aqua Line,18.4956,73.8139
+CUST1433,Felicia Hunter,37,Female,Nagpur,Return,UPI,Daily,Anand Nagar,Swargate,26,13-03-2022,Aqua Line,18.4956,73.8139
+CUST1434,Sarah Carpenter,26,Male,Mumbai,Return,Cash,Daily,PCMC,Mandai,26,08-04-2022,Purple Line,18.62910766,73.80377477
+CUST1435,Luis Shelton,46,Female,Aurangabad,Return,Net Banking,Occasionally,PMC,Ramwadi,22,13-11-2023,Aqua Line,18.5169,73.8535
+CUST1436,Charles Fisher,62,Male,Aurangabad,Return,Net Banking,Occasionally,Deccan Gymkhana,Vanaz,16,30-04-2022,Aqua Line,18.5204,73.8415
+CUST1437,Paul Edwards,33,Male,Aurangabad,Return,UPI,Occasionally,Deccan Gymkhana,Nal Stop,10,13-11-2023,Aqua Line,18.5204,73.8415
+CUST1438,Cynthia Rodriguez,28,Female,Aurangabad,Monthly Pass,Net Banking,Occasionally,Bopodi,Dapodi,10,11-09-2024,Purple Line,18.5645,73.8456
+CUST1439,Daniel Ramirez,28,Female,Nagpur,Return,Cash,Daily,Garware College,Bopodi,10,16-12-2023,Aqua Line,18.5161,73.8345
+CUST1440,Robert Sanchez,27,Female,Nagpur,Monthly Pass,UPI,Daily,Kalyani Nagar,Nal Stop,28,11-02-2024,Aqua Line,18.5515,73.9001
+CUST1441,Stephen Howard,57,Female,Nagpur,Return,Credit Card,Daily,District Court,Sant Tukaram Nagar,20,30-01-2022,Interchange Station,18.5204,73.8567
+CUST1442,Joseph Reese,37,Female,Nagpur,Monthly Pass,Net Banking,Occasionally,Sant Tukaram Nagar,District Court,20,26-12-2023,Purple Line,18.627,73.8075
+CUST1443,Jeffrey Mclaughlin,49,Female,Mumbai,Monthly Pass,Cash,Daily,Kalyani Nagar,PCMC,30,23-08-2023,Aqua Line,18.5515,73.9001
+CUST1444,Cassandra Johnson,61,Female,Aurangabad,Return,UPI,Occasionally,Bhosari,Swargate,24,14-12-2022,Purple Line,18.6188,73.8136
+CUST1445,Jennifer Phelps,59,Male,Nashik,Single,Cash,Daily,Deccan Gymkhana,Bopodi,10,24-07-2022,Aqua Line,18.5204,73.8415
+CUST1446,Nancy Spencer,36,Female,Nagpur,Return,Cash,Occasionally,Ramwadi,Yerwada,10,11-04-2022,Aqua Line,18.5583,73.9076
+CUST1447,Stephanie George,26,Male,Nashik,Return,Credit Card,Weekly,Yerwada,Sant Tukaram Nagar,30,24-04-2022,Aqua Line,18.5486,73.8925
+CUST1448,David Graham,42,Female,Nashik,Single,Credit Card,Daily,Shivaji Nagar,Chhatrapati Sambhaji Udyan,10,06-10-2024,Purple Line,18.5308,73.8524
+CUST1449,Jennifer Landry,21,Female,Nagpur,Return,Net Banking,Daily,District Court,Shivaji Nagar,10,19-05-2022,Interchange Station,18.5204,73.8567
+CUST1450,Penny Martin,61,Female,Pune,Single,Net Banking,Occasionally,Kasba Peth,Deccan Gymkhana,14,26-08-2023,Purple Line,18.52162948,73.85949608
+CUST1451,Michelle Pacheco,33,Male,Nashik,Return,Credit Card,Daily,Garware College,Sant Tukaram Nagar,12,20-09-2022,Aqua Line,18.5161,73.8345
+CUST1452,William Rodriguez,31,Male,Pune,Single,Cash,Occasionally,Kalyani Nagar,Sant Tukaram Nagar,30,24-12-2022,Aqua Line,18.5515,73.9001
+CUST1453,Pamela Levine,37,Female,Nashik,Single,Credit Card,Occasionally,PCMC,Bund Garden,30,13-12-2024,Purple Line,18.62910766,73.80377477
+CUST1454,Paige Chapman,62,Male,Pune,Return,UPI,Weekly,Ruby Hall Clinic,Kasarwadi,22,27-04-2023,Aqua Line,18.5341,73.8795
+CUST1455,Leslie Summers,65,Male,Pune,Monthly Pass,UPI,Occasionally,Bhosari,Ruby Hall Clinic,24,17-06-2022,Purple Line,18.6188,73.8136
+CUST1456,Tracy Rodriguez,32,Female,Mumbai,Single,Credit Card,Weekly,Kasba Peth,Mandai,10,11-09-2022,Purple Line,18.52162948,73.85949608
+CUST1457,David Holloway,53,Female,Mumbai,Return,Net Banking,Weekly,Vanaz,Shivaji Nagar,20,13-07-2024,Aqua Line,18.5005,73.8077
+CUST1458,Vincent Kelly,30,Female,Mumbai,Monthly Pass,Net Banking,Daily,Bopodi,Ruby Hall Clinic,16,24-07-2022,Purple Line,18.5645,73.8456
+CUST1459,Amber Bolton,62,Male,Aurangabad,Monthly Pass,Net Banking,Weekly,Bopodi,Kasarwadi,12,17-12-2024,Purple Line,18.5645,73.8456
+CUST1460,Melanie Hughes,52,Male,Mumbai,Monthly Pass,Net Banking,Occasionally,Ruby Hall Clinic,Chhatrapati Sambhaji Udyan,16,09-11-2023,Aqua Line,18.5341,73.8795
+CUST1461,Shawn Gregory,59,Male,Nagpur,Monthly Pass,Net Banking,Occasionally,Shivaji Nagar,Chhatrapati Sambhaji Udyan,10,21-07-2022,Purple Line,18.5308,73.8524
+CUST1462,Jason Chan,50,Male,Mumbai,Single,Net Banking,Occasionally,Anand Nagar,Vanaz,10,25-07-2023,Aqua Line,18.4956,73.8139
+CUST1463,Patricia Rogers,50,Male,Nagpur,Monthly Pass,Net Banking,Weekly,District Court,Nal Stop,16,27-07-2023,Interchange Station,18.5204,73.8567
+CUST1464,Alejandro Davis,59,Female,Pune,Single,Net Banking,Occasionally,Kalyani Nagar,Ramwadi,10,17-10-2024,Aqua Line,18.5515,73.9001
+CUST1465,Jessica Campbell,25,Female,Pune,Monthly Pass,Credit Card,Occasionally,Kasarwadi,District Court,16,11-02-2024,Purple Line,18.6069,73.8225
+CUST1466,David Black,51,Female,Mumbai,Return,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,Ruby Hall Clinic,16,21-02-2023,Aqua Line,18.5206,73.8441
+CUST1467,Janice Daniel,41,Female,Pune,Return,Net Banking,Occasionally,Shivaji Nagar,Mangalwar Peth,10,02-01-2023,Purple Line,18.5308,73.8524
+CUST1468,Maria Lopez,59,Female,Mumbai,Single,Cash,Weekly,Vanaz,Mangalwar Peth,24,24-11-2023,Aqua Line,18.5005,73.8077
+CUST1469,Timothy Petty,41,Male,Mumbai,Return,Credit Card,Occasionally,Ideal Colony,Kalyani Nagar,30,13-08-2022,Aqua Line,18.4942,73.8203
+CUST1470,Corey Rivera,40,Male,Mumbai,Single,UPI,Occasionally,Shivaji Nagar,Mandai,12,27-09-2024,Purple Line,18.5308,73.8524
+CUST1471,Emily Davis,26,Female,Mumbai,Monthly Pass,Cash,Weekly,Pune Railway Station,Garware College,18,29-09-2024,Aqua Line,18.5297,73.8726
+CUST1472,Sharon Becker,34,Male,Aurangabad,Return,Cash,Weekly,Swargate,PMC,14,04-08-2024,Purple Line,18.5018,73.8586
+CUST1473,Kurt Franklin,48,Female,Nagpur,Return,UPI,Occasionally,Sant Tukaram Nagar,Ramwadi,30,15-05-2023,Purple Line,18.627,73.8075
+CUST1474,Sean Davis,33,Female,Aurangabad,Single,Credit Card,Weekly,Shivaji Nagar,Ruby Hall Clinic,14,23-05-2023,Purple Line,18.5308,73.8524
+CUST1475,Sheri Shields,32,Male,Nagpur,Single,UPI,Daily,Kalyani Nagar,Deccan Gymkhana,24,24-11-2023,Aqua Line,18.5515,73.9001
+CUST1476,Mary Hamilton,40,Female,Pune,Single,Credit Card,Daily,Chhatrapati Sambhaji Udyan,Bopodi,10,31-07-2022,Aqua Line,18.5206,73.8441
+CUST1477,Timothy Cooper,49,Male,Mumbai,Monthly Pass,Net Banking,Occasionally,Deccan Gymkhana,Dapodi,10,11-08-2024,Aqua Line,18.5204,73.8415
+CUST1478,Matthew Hayes,31,Female,Nagpur,Return,Cash,Daily,Ramwadi,Ideal Colony,30,08-10-2024,Aqua Line,18.5583,73.9076
+CUST1479,Sarah Owen,26,Female,Nashik,Monthly Pass,Net Banking,Occasionally,Ramwadi,Chhatrapati Sambhaji Udyan,24,19-03-2024,Aqua Line,18.5583,73.9076
+CUST1480,Anna Mccann,23,Female,Nagpur,Return,Cash,Daily,Kalyani Nagar,PMC,20,17-09-2023,Aqua Line,18.5515,73.9001
+CUST1481,Eric Watson,42,Female,Nashik,Monthly Pass,Net Banking,Weekly,Bopodi,Anand Nagar,16,30-12-2022,Purple Line,18.5645,73.8456
+CUST1482,Tamara Franklin,41,Female,Nashik,Monthly Pass,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,Shivaji Nagar,10,21-01-2022,Aqua Line,18.5206,73.8441
+CUST1483,Heather Warner,32,Male,Aurangabad,Return,Credit Card,Occasionally,Kasarwadi,Swargate,22,06-05-2023,Purple Line,18.6069,73.8225
+CUST1484,Lucas Hunter,48,Male,Nagpur,Single,Credit Card,Occasionally,Pune Railway Station,Kalyani Nagar,14,11-09-2023,Aqua Line,18.5297,73.8726
+CUST1485,James Hughes,24,Female,Pune,Return,Net Banking,Weekly,Kasba Peth,Sant Tukaram Nagar,22,27-06-2024,Purple Line,18.52162948,73.85949608
+CUST1486,Lisa Khan,57,Male,Mumbai,Single,UPI,Occasionally,District Court,Sant Tukaram Nagar,20,10-08-2024,Interchange Station,18.5204,73.8567
+CUST1487,Stephanie Burgess,53,Male,Mumbai,Monthly Pass,UPI,Weekly,District Court,Mandai,10,10-03-2024,Interchange Station,18.5204,73.8567
+CUST1488,Andres Williams,38,Female,Mumbai,Monthly Pass,Net Banking,Occasionally,Bund Garden,Vanaz,30,21-10-2022,Aqua Line,18.5371,73.8842
+CUST1489,Jonathan Lee,21,Male,Nashik,Single,Credit Card,Weekly,Ruby Hall Clinic,Chhatrapati Sambhaji Udyan,16,25-03-2023,Aqua Line,18.5341,73.8795
+CUST1490,Mike Kennedy,39,Female,Pune,Single,Cash,Occasionally,Deccan Gymkhana,Garware College,10,08-02-2024,Aqua Line,18.5204,73.8415
+CUST1491,Christopher Gould,64,Female,Pune,Return,UPI,Occasionally,Phugewadi,Yerwada,24,05-08-2022,Purple Line,18.592,73.829
+CUST1492,Sergio Beard,64,Male,Mumbai,Return,Cash,Occasionally,PMC,PCMC,20,05-06-2022,Aqua Line,18.5169,73.8535
+CUST1493,Sarah Weber,44,Male,Pune,Return,Cash,Weekly,Garware College,Anand Nagar,12,21-12-2024,Aqua Line,18.5161,73.8345
+CUST1494,Michael Salazar,20,Female,Nagpur,Single,Credit Card,Daily,Kalyani Nagar,Vanaz,30,08-06-2023,Aqua Line,18.5515,73.9001
+CUST1495,Edward Vasquez,55,Female,Mumbai,Return,Cash,Weekly,Swargate,District Court,12,04-10-2022,Purple Line,18.5018,73.8586
+CUST1496,Anita Davis,25,Female,Aurangabad,Return,Net Banking,Weekly,Bhosari,Yerwada,28,09-08-2022,Purple Line,18.6188,73.8136
+CUST1497,Michael King,62,Male,Aurangabad,Monthly Pass,Cash,Daily,Garware College,Chhatrapati Sambhaji Udyan,10,09-06-2023,Aqua Line,18.5161,73.8345
+CUST1498,Mr. Bryan Young,37,Female,Pune,Single,Credit Card,Daily,Yerwada,District Court,16,05-01-2022,Aqua Line,18.5486,73.8925
+CUST1499,Matthew Manning,41,Female,Nashik,Monthly Pass,UPI,Occasionally,PCMC,Garware College,14,10-12-2022,Purple Line,18.62910766,73.80377477
+CUST1500,Melissa Hernandez,29,Female,Aurangabad,Monthly Pass,Credit Card,Occasionally,Ruby Hall Clinic,Ideal Colony,24,17-02-2023,Aqua Line,18.5341,73.8795
+CUST1501,Lauren Hines,47,Male,Pune,Monthly Pass,Credit Card,Daily,Sant Tukaram Nagar,Pune Railway Station,24,04-07-2024,Purple Line,18.627,73.8075
+CUST1502,Christine Rogers,47,Female,Pune,Single,UPI,Weekly,Sant Tukaram Nagar,Bund Garden,28,13-05-2024,Purple Line,18.627,73.8075
+CUST1503,Ernest Moore,35,Male,Aurangabad,Return,Cash,Weekly,Chhatrapati Sambhaji Udyan,District Court,10,26-01-2023,Aqua Line,18.5206,73.8441
+CUST1504,Eddie Mendoza Jr.,40,Female,Aurangabad,Monthly Pass,UPI,Occasionally,Garware College,Ramwadi,28,01-11-2022,Aqua Line,18.5161,73.8345
+CUST1505,Kelly Davis,43,Male,Mumbai,Single,Net Banking,Daily,Garware College,Bund Garden,22,14-10-2024,Aqua Line,18.5161,73.8345
+CUST1506,Danielle Williams,45,Female,Nagpur,Monthly Pass,Cash,Occasionally,Bund Garden,Deccan Gymkhana,20,22-01-2023,Aqua Line,18.5371,73.8842
+CUST1507,Monica Hanson,32,Female,Aurangabad,Single,Net Banking,Weekly,PCMC,Kasba Peth,24,06-11-2022,Purple Line,18.62910766,73.80377477
+CUST1508,Maureen Davis,26,Male,Mumbai,Return,UPI,Weekly,District Court,Nal Stop,16,07-03-2023,Interchange Station,18.5204,73.8567
+CUST1509,Michael Hernandez,31,Female,Aurangabad,Monthly Pass,Cash,Occasionally,Phugewadi,Garware College,10,26-11-2022,Purple Line,18.592,73.829
+CUST1510,Kelly Davidson,35,Female,Nashik,Single,Net Banking,Daily,Shivaji Nagar,Swargate,14,07-08-2022,Purple Line,18.5308,73.8524
+CUST1511,Katrina Peters,42,Male,Mumbai,Return,Net Banking,Daily,Kasba Peth,District Court,10,28-01-2024,Purple Line,18.52162948,73.85949608
+CUST1512,Felicia Mack,65,Male,Nagpur,Single,Cash,Daily,Kasba Peth,Nal Stop,18,01-06-2023,Purple Line,18.52162948,73.85949608
+CUST1513,Danielle Smith PhD,57,Male,Mumbai,Single,Credit Card,Occasionally,Garware College,Mangalwar Peth,16,24-08-2022,Aqua Line,18.5161,73.8345
+CUST1514,Timothy Montgomery Jr.,59,Female,Nashik,Single,UPI,Daily,Phugewadi,Ramwadi,28,04-12-2022,Purple Line,18.592,73.829
+CUST1515,David Manning,35,Male,Aurangabad,Return,Cash,Weekly,Ramwadi,PMC,22,03-06-2024,Aqua Line,18.5583,73.9076
+CUST1516,Christopher Smith,26,Female,Pune,Monthly Pass,Net Banking,Daily,Pune Railway Station,Ideal Colony,22,10-12-2022,Aqua Line,18.5297,73.8726
+CUST1517,Victoria White,48,Female,Mumbai,Single,Net Banking,Occasionally,Kalyani Nagar,Vanaz,30,04-04-2022,Aqua Line,18.5515,73.9001
+CUST1518,Cheryl Bell,57,Male,Pune,Return,UPI,Weekly,PCMC,Bund Garden,30,06-06-2022,Purple Line,18.62910766,73.80377477
+CUST1519,Andrew Espinoza,59,Male,Pune,Monthly Pass,UPI,Occasionally,Swargate,Bund Garden,10,14-06-2023,Purple Line,18.5018,73.8586
+CUST1520,Mr. Wesley Hernandez,62,Female,Nashik,Single,Cash,Daily,Mangalwar Peth,District Court,10,20-11-2023,Aqua Line,18.5282,73.8623
+CUST1521,Bryan Rhodes,65,Male,Pune,Monthly Pass,Cash,Daily,Kasarwadi,Dapodi,10,09-01-2023,Purple Line,18.6069,73.8225
+CUST1522,Adam Nunez,39,Female,Nagpur,Monthly Pass,Net Banking,Weekly,Pune Railway Station,Ideal Colony,22,20-08-2023,Aqua Line,18.5297,73.8726
+CUST1523,Chad Meza,64,Male,Pune,Single,UPI,Weekly,Sant Tukaram Nagar,Kalyani Nagar,30,31-10-2024,Purple Line,18.627,73.8075
+CUST1524,Frank Hernandez,19,Male,Pune,Monthly Pass,Cash,Weekly,Ideal Colony,Kasba Peth,20,29-05-2024,Aqua Line,18.4942,73.8203
+CUST1525,Kimberly Chang,45,Male,Nashik,Monthly Pass,Cash,Occasionally,Kasarwadi,Bund Garden,24,11-01-2023,Purple Line,18.6069,73.8225
+CUST1526,Ashley Lane,56,Female,Nashik,Single,Cash,Occasionally,Swargate,District Court,12,21-05-2022,Purple Line,18.5018,73.8586
+CUST1527,Jennifer Martinez,44,Male,Mumbai,Return,Credit Card,Weekly,Yerwada,Pune Railway Station,12,26-06-2024,Aqua Line,18.5486,73.8925
+CUST1528,Michael Hernandez,54,Female,Pune,Return,UPI,Occasionally,Swargate,Bhosari,24,04-09-2023,Purple Line,18.5018,73.8586
+CUST1529,Robin Simmons,52,Female,Nagpur,Return,Net Banking,Occasionally,Kasba Peth,Bund Garden,12,27-01-2023,Purple Line,18.52162948,73.85949608
+CUST1530,Daniel Callahan,41,Male,Nagpur,Single,UPI,Occasionally,Nal Stop,Deccan Gymkhana,10,25-06-2024,Aqua Line,18.5083,73.8296
+CUST1531,Sara Dillon DDS,27,Male,Aurangabad,Monthly Pass,UPI,Weekly,Garware College,District Court,14,23-12-2024,Aqua Line,18.5161,73.8345
+CUST1532,Nancy Spencer,21,Female,Nagpur,Monthly Pass,Cash,Daily,Kasba Peth,Mandai,10,21-01-2023,Purple Line,18.52162948,73.85949608
+CUST1533,Olivia Miller,48,Female,Nashik,Monthly Pass,Net Banking,Weekly,Ramwadi,Bund Garden,12,26-12-2022,Aqua Line,18.5583,73.9076
+CUST1534,Kathryn Hernandez,62,Female,Mumbai,Monthly Pass,Net Banking,Daily,District Court,Chhatrapati Sambhaji Udyan,10,05-07-2023,Interchange Station,18.5204,73.8567
+CUST1535,Mr. Ethan Rivera II,60,Female,Nagpur,Single,Net Banking,Occasionally,Pune Railway Station,Nal Stop,20,14-12-2024,Aqua Line,18.5297,73.8726
+CUST1536,Linda Martinez,50,Female,Aurangabad,Single,UPI,Occasionally,Mandai,Yerwada,12,13-11-2024,Purple Line,18.51,73.856
+CUST1537,Austin Lowe,60,Female,Nagpur,Monthly Pass,Cash,Daily,Nal Stop,District Court,16,24-01-2023,Aqua Line,18.5083,73.8296
+CUST1538,Cody Hernandez,47,Female,Pune,Single,UPI,Weekly,Ruby Hall Clinic,Pune Railway Station,10,15-07-2023,Aqua Line,18.5341,73.8795
+CUST1539,Thomas Richard,55,Female,Nagpur,Monthly Pass,Cash,Occasionally,Swargate,Mangalwar Peth,10,26-07-2023,Purple Line,18.5018,73.8586
+CUST1540,Ian Moore,37,Female,Nagpur,Monthly Pass,Credit Card,Occasionally,Deccan Gymkhana,Mangalwar Peth,14,30-05-2024,Aqua Line,18.5204,73.8415
+CUST1541,Elizabeth Campbell,42,Male,Nashik,Monthly Pass,UPI,Weekly,Yerwada,Bhosari,28,08-07-2024,Aqua Line,18.5486,73.8925
+CUST1542,Lori Barrett,32,Female,Pune,Single,Credit Card,Occasionally,District Court,Ruby Hall Clinic,12,13-05-2023,Interchange Station,18.5204,73.8567
+CUST1543,Kyle Torres,50,Male,Nashik,Single,Cash,Daily,PMC,Ramwadi,22,11-08-2023,Aqua Line,18.5169,73.8535
+CUST1544,Jamie Herrera,40,Female,Nagpur,Monthly Pass,UPI,Occasionally,Swargate,Phugewadi,20,18-11-2023,Purple Line,18.5018,73.8586
+CUST1545,Nicole Gomez,39,Female,Pune,Return,UPI,Weekly,PCMC,Vanaz,10,13-08-2023,Purple Line,18.62910766,73.80377477
+CUST1546,Sheri Green,38,Female,Nashik,Return,UPI,Weekly,Vanaz,PCMC,10,26-09-2023,Aqua Line,18.5005,73.8077
+CUST1547,Jordan Wyatt,36,Female,Pune,Single,Cash,Daily,Ideal Colony,Kasba Peth,20,08-02-2024,Aqua Line,18.4942,73.8203
+CUST1548,Jennifer Osborne,51,Male,Nashik,Return,Credit Card,Occasionally,PMC,Kalyani Nagar,20,18-01-2022,Aqua Line,18.5169,73.8535
+CUST1549,Hannah Escobar,31,Female,Pune,Single,Cash,Weekly,Mandai,Deccan Gymkhana,16,24-01-2024,Purple Line,18.51,73.856
+CUST1550,Andrew Miller,31,Female,Aurangabad,Monthly Pass,Credit Card,Weekly,Swargate,Bund Garden,10,16-09-2024,Purple Line,18.5018,73.8586
+CUST1551,Margaret Manning,54,Female,Nagpur,Return,Cash,Weekly,Ramwadi,Kasarwadi,30,06-10-2022,Aqua Line,18.5583,73.9076
+CUST1552,Lauren Thomas,65,Female,Pune,Single,Credit Card,Daily,Dapodi,Nal Stop,10,14-02-2024,Purple Line,18.5783,73.8381
+CUST1553,Manuel Miller,41,Male,Nagpur,Return,Net Banking,Occasionally,Kasba Peth,District Court,10,17-10-2022,Purple Line,18.52162948,73.85949608
+CUST1554,Linda Wells,50,Male,Mumbai,Return,Credit Card,Daily,Yerwada,District Court,16,16-07-2023,Aqua Line,18.5486,73.8925
+CUST1555,Brandy Ward,29,Male,Nashik,Monthly Pass,Cash,Occasionally,Kalyani Nagar,Nal Stop,28,08-07-2022,Aqua Line,18.5515,73.9001
+CUST1556,Laura Moses,47,Male,Mumbai,Return,Credit Card,Daily,Vanaz,Chhatrapati Sambhaji Udyan,18,09-01-2022,Aqua Line,18.5005,73.8077
+CUST1557,Joseph Freeman,26,Female,Mumbai,Monthly Pass,UPI,Occasionally,District Court,Chhatrapati Sambhaji Udyan,10,06-04-2023,Interchange Station,18.5204,73.8567
+CUST1558,Anthony Martinez,37,Female,Mumbai,Monthly Pass,Cash,Weekly,Mandai,Bhosari,22,03-04-2022,Purple Line,18.51,73.856
+CUST1559,Jordan Maynard,24,Male,Mumbai,Monthly Pass,UPI,Occasionally,Ruby Hall Clinic,Swargate,10,08-10-2024,Aqua Line,18.5341,73.8795
+CUST1560,Adam Bailey,53,Male,Mumbai,Return,Net Banking,Weekly,Kasarwadi,Bopodi,12,10-07-2023,Purple Line,18.6069,73.8225
+CUST1561,Nichole Anthony,41,Female,Nagpur,Monthly Pass,UPI,Daily,Kalyani Nagar,PCMC,30,02-02-2022,Aqua Line,18.5515,73.9001
+CUST1562,Kellie Phillips,23,Male,Mumbai,Return,UPI,Daily,Chhatrapati Sambhaji Udyan,Nal Stop,12,19-08-2022,Aqua Line,18.5206,73.8441
+CUST1563,Jessica Jones,60,Male,Pune,Return,Credit Card,Daily,Ideal Colony,Bund Garden,26,07-02-2024,Aqua Line,18.4942,73.8203
+CUST1564,Kyle Morrow,42,Male,Mumbai,Return,Net Banking,Occasionally,Chhatrapati Sambhaji Udyan,Kalyani Nagar,22,19-09-2024,Aqua Line,18.5206,73.8441
+CUST1565,Jeffrey Henson,40,Female,Mumbai,Return,UPI,Daily,Pune Railway Station,Chhatrapati Sambhaji Udyan,14,03-03-2023,Aqua Line,18.5297,73.8726
+CUST1566,Bethany Yang,37,Female,Mumbai,Return,Net Banking,Weekly,Nal Stop,PMC,14,12-01-2022,Aqua Line,18.5083,73.8296
+CUST1567,Mrs. Linda Shaw,53,Female,Nagpur,Monthly Pass,UPI,Weekly,Swargate,Mangalwar Peth,10,13-07-2022,Purple Line,18.5018,73.8586
+CUST1568,Alison Gonzalez,20,Female,Nagpur,Single,UPI,Occasionally,District Court,Ideal Colony,18,08-06-2022,Interchange Station,18.5204,73.8567
+CUST1569,David Russell,38,Male,Aurangabad,Return,Cash,Weekly,Kalyani Nagar,Anand Nagar,30,13-08-2024,Aqua Line,18.5515,73.9001
+CUST1570,Anna Turner,49,Female,Aurangabad,Return,Credit Card,Weekly,Swargate,Dapodi,18,13-06-2023,Purple Line,18.5018,73.8586
+CUST1571,Tiffany Thomas,46,Male,Nashik,Monthly Pass,Net Banking,Occasionally,Dapodi,Yerwada,22,13-07-2022,Purple Line,18.5783,73.8381
+CUST1572,Kara Olson,48,Female,Aurangabad,Return,UPI,Occasionally,Chhatrapati Sambhaji Udyan,Kasarwadi,12,07-04-2024,Aqua Line,18.5206,73.8441
+CUST1573,Morgan Contreras,45,Female,Mumbai,Monthly Pass,Net Banking,Weekly,Sant Tukaram Nagar,Shivaji Nagar,18,27-11-2022,Purple Line,18.627,73.8075
+CUST1574,Dalton Whitaker,51,Female,Mumbai,Monthly Pass,Credit Card,Weekly,Nal Stop,Deccan Gymkhana,10,19-06-2024,Aqua Line,18.5083,73.8296
+CUST1575,Brandy Carroll,64,Male,Aurangabad,Return,Net Banking,Weekly,PCMC,Ideal Colony,10,23-01-2023,Purple Line,18.62910766,73.80377477
+CUST1576,Michael Long,18,Female,Mumbai,Single,Net Banking,Weekly,Shivaji Nagar,Kasba Peth,10,07-06-2022,Purple Line,18.5308,73.8524
+CUST1577,Gabriel Collier,40,Female,Aurangabad,Return,Net Banking,Occasionally,Phugewadi,Swargate,20,22-03-2024,Purple Line,18.592,73.829
+CUST1578,Haley Potter,32,Female,Pune,Single,Credit Card,Weekly,Shivaji Nagar,Bund Garden,16,13-04-2023,Purple Line,18.5308,73.8524
+CUST1579,Richard Haas,43,Male,Nagpur,Single,Net Banking,Daily,Ideal Colony,PCMC,10,30-03-2023,Aqua Line,18.4942,73.8203
+CUST1580,Terry Howell,55,Male,Aurangabad,Monthly Pass,Net Banking,Occasionally,Kasarwadi,Phugewadi,10,11-07-2022,Purple Line,18.6069,73.8225
+CUST1581,John Montgomery,31,Male,Nashik,Return,Cash,Occasionally,Ramwadi,Chhatrapati Sambhaji Udyan,24,06-12-2024,Aqua Line,18.5583,73.9076
+CUST1582,Jeffery Clark,46,Female,Aurangabad,Return,UPI,Daily,Vanaz,PCMC,10,28-06-2022,Aqua Line,18.5005,73.8077
+CUST1583,Jennifer Thompson,39,Male,Nashik,Single,Credit Card,Occasionally,Ramwadi,Bund Garden,12,20-06-2024,Aqua Line,18.5583,73.9076
+CUST1584,Tyler Davis,59,Female,Nashik,Return,Credit Card,Daily,Yerwada,Bopodi,20,01-06-2023,Aqua Line,18.5486,73.8925
+CUST1585,Haley Erickson,65,Female,Aurangabad,Single,Credit Card,Daily,Ramwadi,Kasba Peth,18,18-08-2024,Aqua Line,18.5583,73.9076
+CUST1586,Eric Mann,24,Male,Nagpur,Single,Credit Card,Daily,Kasarwadi,Yerwada,26,28-06-2023,Purple Line,18.6069,73.8225
+CUST1587,Tina Wood,31,Female,Pune,Single,Credit Card,Weekly,Nal Stop,PMC,14,06-04-2022,Aqua Line,18.5083,73.8296
+CUST1588,Amber Young,21,Male,Nashik,Single,Credit Card,Occasionally,Mangalwar Peth,Sant Tukaram Nagar,22,31-05-2022,Aqua Line,18.5282,73.8623
+CUST1589,Nicole Forbes,50,Female,Nashik,Single,Net Banking,Occasionally,Anand Nagar,Dapodi,14,02-10-2024,Aqua Line,18.4956,73.8139
+CUST1590,Bruce Morgan,54,Female,Nagpur,Single,Net Banking,Occasionally,Dapodi,Mangalwar Peth,14,02-03-2024,Purple Line,18.5783,73.8381
+CUST1591,Travis Mullen,46,Female,Mumbai,Monthly Pass,Net Banking,Daily,PCMC,Bund Garden,30,10-12-2022,Purple Line,18.62910766,73.80377477
+CUST1592,Margaret Zimmerman MD,41,Female,Mumbai,Single,UPI,Daily,Dapodi,PMC,10,15-08-2024,Purple Line,18.5783,73.8381
+CUST1593,Christian Williamson,64,Male,Aurangabad,Return,Credit Card,Daily,Phugewadi,Swargate,20,13-01-2022,Purple Line,18.592,73.829
+CUST1594,Joel Ray,53,Male,Nagpur,Monthly Pass,Credit Card,Weekly,Mandai,Bund Garden,10,02-01-2024,Purple Line,18.51,73.856
+CUST1595,James Franklin,23,Female,Pune,Return,Cash,Daily,Ideal Colony,Anand Nagar,10,26-01-2023,Aqua Line,18.4942,73.8203
+CUST1596,Victor Sutton,40,Male,Aurangabad,Monthly Pass,Credit Card,Occasionally,Anand Nagar,District Court,20,20-04-2022,Aqua Line,18.4956,73.8139
+CUST1597,Francisco Johns,32,Male,Mumbai,Single,Credit Card,Weekly,PMC,District Court,10,08-01-2022,Aqua Line,18.5169,73.8535
+CUST1598,Nicholas Young,37,Male,Pune,Monthly Pass,Credit Card,Daily,Ruby Hall Clinic,Ramwadi,14,17-08-2024,Aqua Line,18.5341,73.8795
+CUST1599,Scott Mcdonald,48,Male,Nashik,Monthly Pass,UPI,Occasionally,Bund Garden,Anand Nagar,28,30-08-2023,Aqua Line,18.5371,73.8842
+CUST1600,Michelle Riddle,30,Female,Nashik,Single,Cash,Occasionally,Bhosari,Bopodi,14,30-01-2024,Purple Line,18.6188,73.8136
+CUST1601,Thomas Russell,52,Female,Pune,Monthly Pass,Credit Card,Occasionally,Nal Stop,PCMC,12,11-03-2023,Aqua Line,18.5083,73.8296
+CUST1602,Jacob Reed,39,Male,Mumbai,Return,Cash,Occasionally,PMC,Bopodi,10,18-07-2022,Aqua Line,18.5169,73.8535
+CUST1603,Antonio Williams,54,Female,Aurangabad,Return,UPI,Daily,PMC,Bhosari,16,08-04-2023,Aqua Line,18.5169,73.8535
+CUST1604,Misty Hill,50,Female,Mumbai,Return,Cash,Weekly,Mandai,Bopodi,14,18-03-2023,Purple Line,18.51,73.856
+CUST1605,Donald Mcintyre,40,Male,Pune,Monthly Pass,Net Banking,Occasionally,Bopodi,Pune Railway Station,14,04-03-2023,Purple Line,18.5645,73.8456
+CUST1606,Theresa Hays,29,Male,Nagpur,Monthly Pass,UPI,Weekly,Bhosari,Sant Tukaram Nagar,10,18-11-2023,Purple Line,18.6188,73.8136
+CUST1607,Eric Mooney,21,Male,Mumbai,Monthly Pass,Cash,Daily,Bopodi,Kalyani Nagar,22,18-10-2023,Purple Line,18.5645,73.8456
+CUST1608,Lisa Pierce,24,Male,Mumbai,Return,Net Banking,Weekly,Dapodi,Kasba Peth,14,13-07-2024,Purple Line,18.5783,73.8381
+CUST1609,Jane Francis,42,Male,Aurangabad,Single,Net Banking,Weekly,Pune Railway Station,Sant Tukaram Nagar,24,31-07-2024,Aqua Line,18.5297,73.8726
+CUST1610,Destiny Boyd,31,Male,Nashik,Return,Net Banking,Daily,Vanaz,Mangalwar Peth,24,25-02-2023,Aqua Line,18.5005,73.8077
+CUST1611,Phyllis Howard,36,Male,Nashik,Return,Credit Card,Daily,Bhosari,Yerwada,28,23-01-2023,Purple Line,18.6188,73.8136
+CUST1612,Kristin Dawson,40,Female,Nashik,Return,Credit Card,Weekly,Pune Railway Station,Vanaz,26,10-03-2022,Aqua Line,18.5297,73.8726
+CUST1613,Michelle Mclaughlin,26,Female,Mumbai,Single,Cash,Daily,Ramwadi,Bund Garden,12,19-01-2024,Aqua Line,18.5583,73.9076
+CUST1614,William Hernandez,26,Male,Nashik,Single,Cash,Occasionally,District Court,Pune Railway Station,10,07-02-2024,Interchange Station,18.5204,73.8567
+CUST1615,Katie Murphy,59,Female,Pune,Monthly Pass,Net Banking,Daily,Ideal Colony,Vanaz,10,24-01-2024,Aqua Line,18.4942,73.8203
+CUST1616,Dwayne Brady,34,Female,Nagpur,Return,UPI,Weekly,District Court,Kasarwadi,16,27-05-2023,Interchange Station,18.5204,73.8567
+CUST1617,Morgan Hill,61,Female,Nagpur,Return,Credit Card,Weekly,Dapodi,Bund Garden,20,27-12-2023,Purple Line,18.5783,73.8381
+CUST1618,Shannon Moore,37,Female,Nagpur,Monthly Pass,Cash,Weekly,Shivaji Nagar,Mangalwar Peth,10,11-08-2024,Purple Line,18.5308,73.8524
+CUST1619,Amber Tran,61,Male,Pune,Monthly Pass,Cash,Occasionally,Garware College,Deccan Gymkhana,10,29-11-2024,Aqua Line,18.5161,73.8345
+CUST1620,Christina Hendricks,29,Female,Nashik,Monthly Pass,UPI,Occasionally,Bhosari,Pune Railway Station,22,15-11-2023,Purple Line,18.6188,73.8136
+CUST1621,Paige Phillips,32,Male,Pune,Single,Net Banking,Occasionally,Ruby Hall Clinic,Bopodi,16,08-10-2022,Aqua Line,18.5341,73.8795
+CUST1622,Melissa Montes,32,Male,Nagpur,Monthly Pass,Net Banking,Daily,Nal Stop,Swargate,22,06-10-2024,Aqua Line,18.5083,73.8296
+CUST1623,Tracy Parrish,50,Female,Nagpur,Monthly Pass,Credit Card,Daily,Kasba Peth,Chhatrapati Sambhaji Udyan,12,04-02-2022,Purple Line,18.52162948,73.85949608
+CUST1624,Angela Scott,41,Female,Nashik,Monthly Pass,Cash,Daily,Kasba Peth,Mandai,10,11-02-2024,Purple Line,18.52162948,73.85949608
+CUST1625,Stephanie Vasquez,59,Male,Mumbai,Return,UPI,Daily,Swargate,Pune Railway Station,10,09-07-2022,Purple Line,18.5018,73.8586
+CUST1626,Caleb Smith,26,Female,Nagpur,Single,Credit Card,Occasionally,Ramwadi,Phugewadi,28,24-08-2023,Aqua Line,18.5583,73.9076
+CUST1627,Kristina Foster,59,Female,Pune,Monthly Pass,Net Banking,Occasionally,Bopodi,Ramwadi,24,06-09-2024,Purple Line,18.5645,73.8456
+CUST1628,Brent Martin,64,Male,Pune,Single,Cash,Occasionally,Ideal Colony,Swargate,24,30-06-2022,Aqua Line,18.4942,73.8203
+CUST1629,Peter Gonzalez,48,Female,Nagpur,Single,Net Banking,Occasionally,Ideal Colony,District Court,18,07-03-2024,Aqua Line,18.4942,73.8203
+CUST1630,Tara Phillips,53,Male,Nagpur,Single,Cash,Daily,District Court,Bund Garden,14,21-06-2022,Interchange Station,18.5204,73.8567
+CUST1631,Dylan Leach,47,Male,Pune,Return,Cash,Occasionally,Phugewadi,District Court,14,04-07-2024,Purple Line,18.592,73.829
+CUST1632,Katie Kim,53,Female,Aurangabad,Return,Credit Card,Occasionally,Vanaz,Nal Stop,12,18-12-2023,Aqua Line,18.5005,73.8077
+CUST1633,Christine Allen,57,Male,Nagpur,Return,Cash,Daily,District Court,Anand Nagar,20,05-11-2023,Interchange Station,18.5204,73.8567
+CUST1634,Catherine Peterson,55,Female,Pune,Monthly Pass,UPI,Weekly,PCMC,Yerwada,30,09-07-2022,Purple Line,18.62910766,73.80377477
+CUST1635,James Warren,22,Female,Pune,Return,Cash,Daily,Kalyani Nagar,Kasba Peth,16,20-11-2022,Aqua Line,18.5515,73.9001
+CUST1636,Eddie Stuart,46,Male,Nashik,Return,Credit Card,Weekly,Chhatrapati Sambhaji Udyan,PCMC,18,02-10-2024,Aqua Line,18.5206,73.8441
+CUST1637,Stephen Robertson,24,Female,Nagpur,Return,Net Banking,Occasionally,Kalyani Nagar,Chhatrapati Sambhaji Udyan,22,17-12-2024,Aqua Line,18.5515,73.9001
+CUST1638,Erica Conway,65,Female,Nashik,Monthly Pass,UPI,Occasionally,Deccan Gymkhana,Swargate,18,05-04-2022,Aqua Line,18.5204,73.8415
+CUST1639,Dr. Jessica Irwin,27,Female,Aurangabad,Return,Credit Card,Occasionally,Anand Nagar,District Court,20,12-02-2023,Aqua Line,18.4956,73.8139
+CUST1640,Jessica Diaz,65,Female,Nagpur,Single,UPI,Weekly,Chhatrapati Sambhaji Udyan,Kasarwadi,12,19-01-2023,Aqua Line,18.5206,73.8441
+CUST1641,Joshua Johnson,29,Male,Aurangabad,Return,Credit Card,Weekly,PCMC,Yerwada,30,28-01-2024,Purple Line,18.62910766,73.80377477
+CUST1642,Alicia Russell,26,Male,Aurangabad,Single,UPI,Weekly,Kasba Peth,Bopodi,12,20-06-2023,Purple Line,18.52162948,73.85949608
+CUST1643,Jeremiah Wagner,39,Female,Nashik,Monthly Pass,UPI,Occasionally,Nal Stop,Garware College,10,12-11-2022,Aqua Line,18.5083,73.8296
+CUST1644,William Bell,18,Male,Aurangabad,Single,UPI,Weekly,PMC,Bund Garden,16,26-03-2024,Aqua Line,18.5169,73.8535
+CUST1645,Craig Cortez,30,Male,Aurangabad,Single,UPI,Daily,Bopodi,Yerwada,20,10-08-2023,Purple Line,18.5645,73.8456
+CUST1646,Patricia Jennings,23,Male,Nagpur,Monthly Pass,Cash,Daily,PMC,Anand Nagar,18,14-06-2023,Aqua Line,18.5169,73.8535
+CUST1647,Mary Moon,25,Male,Mumbai,Return,Net Banking,Daily,Garware College,District Court,14,25-05-2024,Aqua Line,18.5161,73.8345
+CUST1648,Andrew Bailey,35,Female,Nagpur,Return,Credit Card,Daily,District Court,Garware College,14,21-08-2022,Interchange Station,18.5204,73.8567
+CUST1649,Alicia Saunders,62,Female,Pune,Return,Net Banking,Daily,District Court,Shivaji Nagar,10,22-04-2024,Interchange Station,18.5204,73.8567
+CUST1650,Hailey Lopez,46,Male,Mumbai,Monthly Pass,Net Banking,Occasionally,PCMC,Pune Railway Station,26,14-10-2023,Purple Line,18.62910766,73.80377477
+CUST1651,Jenna Andrews,24,Male,Nagpur,Single,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,Mandai,14,02-11-2022,Aqua Line,18.5206,73.8441
+CUST1652,Candice Holmes,36,Female,Nagpur,Return,Net Banking,Weekly,Phugewadi,Sant Tukaram Nagar,12,18-04-2023,Purple Line,18.592,73.829
+CUST1653,Tina Moore,46,Female,Mumbai,Return,Net Banking,Weekly,Bopodi,Kalyani Nagar,22,10-12-2022,Purple Line,18.5645,73.8456
+CUST1654,Mrs. Kelsey Lin,37,Male,Nashik,Monthly Pass,Credit Card,Weekly,Vanaz,Mandai,26,06-05-2023,Aqua Line,18.5005,73.8077
+CUST1655,Deborah Burke,58,Female,Nashik,Single,Net Banking,Daily,Kasba Peth,Deccan Gymkhana,14,15-05-2023,Purple Line,18.52162948,73.85949608
+CUST1656,Ronald Farmer,51,Female,Nagpur,Return,UPI,Daily,Anand Nagar,Garware College,12,03-08-2023,Aqua Line,18.4956,73.8139
+CUST1657,Susan Monroe,60,Male,Mumbai,Single,Cash,Daily,Vanaz,Garware College,14,31-12-2023,Aqua Line,18.5005,73.8077
+CUST1658,Amber Huffman,58,Male,Aurangabad,Return,Net Banking,Weekly,Bund Garden,Bopodi,18,25-01-2024,Aqua Line,18.5371,73.8842
+CUST1659,Joseph Weiss,51,Male,Pune,Return,UPI,Occasionally,Mandai,Sant Tukaram Nagar,24,02-02-2022,Purple Line,18.51,73.856
+CUST1660,Brett Gross,54,Female,Nashik,Return,Net Banking,Weekly,Bund Garden,Nal Stop,24,27-09-2022,Aqua Line,18.5371,73.8842
+CUST1661,Cassandra Wolf,50,Female,Pune,Single,Net Banking,Weekly,Deccan Gymkhana,Anand Nagar,14,17-10-2023,Aqua Line,18.5204,73.8415
+CUST1662,Susan Waller,20,Male,Mumbai,Monthly Pass,Credit Card,Daily,Ruby Hall Clinic,Nal Stop,22,09-06-2024,Aqua Line,18.5341,73.8795
+CUST1663,Jonathan Vasquez,53,Female,Pune,Monthly Pass,Credit Card,Weekly,Swargate,District Court,12,12-11-2023,Purple Line,18.5018,73.8586
+CUST1664,Kenneth Estrada,22,Female,Mumbai,Single,Cash,Weekly,Mandai,Yerwada,12,06-04-2022,Purple Line,18.51,73.856
+CUST1665,Carla Adams,52,Male,Nagpur,Return,Net Banking,Weekly,District Court,Kasarwadi,16,10-02-2023,Interchange Station,18.5204,73.8567
+CUST1666,Thomas Hunter,38,Female,Nashik,Return,Cash,Weekly,Nal Stop,Pune Railway Station,20,14-11-2024,Aqua Line,18.5083,73.8296
+CUST1667,Tammy Newman,45,Male,Nashik,Monthly Pass,Credit Card,Daily,Chhatrapati Sambhaji Udyan,Garware College,10,03-06-2024,Aqua Line,18.5206,73.8441
+CUST1668,Lisa Ryan,40,Female,Nashik,Single,Cash,Daily,PMC,Pune Railway Station,12,02-03-2023,Aqua Line,18.5169,73.8535
+CUST1669,Shane Turner,36,Female,Nashik,Monthly Pass,UPI,Weekly,Sant Tukaram Nagar,Dapodi,14,20-05-2022,Purple Line,18.627,73.8075
+CUST1670,Roberto Arnold,18,Male,Nashik,Single,Cash,Weekly,District Court,Swargate,12,16-01-2023,Interchange Station,18.5204,73.8567
+CUST1671,Jerry Shelton,60,Male,Mumbai,Single,Net Banking,Weekly,Kasarwadi,Mangalwar Peth,18,31-12-2022,Purple Line,18.6069,73.8225
+CUST1672,Heather Ward,64,Male,Nagpur,Return,Net Banking,Daily,Pune Railway Station,Kalyani Nagar,14,28-04-2022,Aqua Line,18.5297,73.8726
+CUST1673,Ashley Barrera,45,Female,Nagpur,Return,Net Banking,Weekly,Ramwadi,Shivaji Nagar,22,18-01-2022,Aqua Line,18.5583,73.9076
+CUST1674,Eric Davis,35,Male,Nashik,Single,Credit Card,Weekly,Bhosari,Shivaji Nagar,16,25-09-2023,Purple Line,18.6188,73.8136
+CUST1675,Erik Hunter,55,Male,Mumbai,Single,UPI,Weekly,Shivaji Nagar,PCMC,20,18-01-2022,Purple Line,18.5308,73.8524
+CUST1676,Timothy Barrett,48,Female,Nagpur,Single,Credit Card,Weekly,Ideal Colony,Vanaz,10,08-05-2024,Aqua Line,18.4942,73.8203
+CUST1677,Jose Rivera,63,Male,Nagpur,Single,Cash,Occasionally,Ideal Colony,Vanaz,10,30-04-2022,Aqua Line,18.4942,73.8203
+CUST1678,Roger Mitchell,50,Female,Mumbai,Monthly Pass,Cash,Daily,Deccan Gymkhana,Yerwada,22,05-01-2024,Aqua Line,18.5204,73.8415
+CUST1679,Bobby Taylor,38,Male,Aurangabad,Monthly Pass,Cash,Daily,Nal Stop,Bopodi,12,29-05-2022,Aqua Line,18.5083,73.8296
+CUST1680,Jonathan Frederick,55,Female,Mumbai,Single,Net Banking,Occasionally,Phugewadi,Ruby Hall Clinic,20,23-03-2024,Purple Line,18.592,73.829
+CUST1681,Thomas Gibson,62,Female,Nashik,Return,Net Banking,Occasionally,Deccan Gymkhana,Dapodi,10,13-02-2024,Aqua Line,18.5204,73.8415
+CUST1682,Michael Davis,46,Male,Nashik,Return,UPI,Occasionally,Mangalwar Peth,PCMC,24,11-04-2023,Aqua Line,18.5282,73.8623
+CUST1683,Anthony Carlson,53,Female,Mumbai,Monthly Pass,Cash,Daily,Nal Stop,Anand Nagar,10,18-09-2024,Aqua Line,18.5083,73.8296
+CUST1684,Neil Bright,46,Male,Nagpur,Return,Cash,Occasionally,District Court,Dapodi,12,01-08-2023,Interchange Station,18.5204,73.8567
+CUST1685,Stephanie Gutierrez,55,Male,Nashik,Single,Cash,Weekly,Kalyani Nagar,Deccan Gymkhana,24,03-06-2022,Aqua Line,18.5515,73.9001
+CUST1686,John Taylor,18,Female,Nagpur,Single,Net Banking,Occasionally,Shivaji Nagar,District Court,10,20-11-2023,Purple Line,18.5308,73.8524
+CUST1687,Amanda Massey,58,Male,Mumbai,Return,UPI,Weekly,District Court,Bhosari,18,13-03-2023,Interchange Station,18.5204,73.8567
+CUST1688,Autumn Daniel,26,Female,Pune,Return,Cash,Daily,Ideal Colony,Bund Garden,26,22-10-2023,Aqua Line,18.4942,73.8203
+CUST1689,Patricia Rodriguez,29,Female,Nashik,Return,Net Banking,Weekly,Anand Nagar,Bopodi,16,15-07-2022,Aqua Line,18.4956,73.8139
+CUST1690,Joseph Morris,20,Female,Aurangabad,Return,Net Banking,Occasionally,PMC,Deccan Gymkhana,10,28-11-2024,Aqua Line,18.5169,73.8535
+CUST1691,Andrew Escobar,38,Male,Aurangabad,Monthly Pass,UPI,Occasionally,District Court,Garware College,14,10-02-2024,Interchange Station,18.5204,73.8567
+CUST1692,Brenda Wilson,28,Male,Aurangabad,Monthly Pass,Cash,Occasionally,Dapodi,PMC,10,01-12-2024,Purple Line,18.5783,73.8381
+CUST1693,Samantha Richard,27,Female,Aurangabad,Monthly Pass,Net Banking,Weekly,Pune Railway Station,Bund Garden,10,23-09-2024,Aqua Line,18.5297,73.8726
+CUST1694,Brenda Hopkins,46,Female,Nashik,Return,Cash,Daily,Chhatrapati Sambhaji Udyan,Ramwadi,24,12-01-2023,Aqua Line,18.5206,73.8441
+CUST1695,Tamara Drake,45,Male,Mumbai,Monthly Pass,UPI,Daily,Kalyani Nagar,Vanaz,30,15-12-2024,Aqua Line,18.5515,73.9001
+CUST1696,Karen Fitzgerald,36,Male,Nashik,Return,Cash,Weekly,PCMC,Pune Railway Station,26,22-05-2023,Purple Line,18.62910766,73.80377477
+CUST1697,Steven Ellison DVM,18,Male,Nagpur,Single,Cash,Weekly,Yerwada,Ideal Colony,28,18-05-2023,Aqua Line,18.5486,73.8925
+CUST1698,Mary Montgomery,31,Female,Nashik,Monthly Pass,Credit Card,Weekly,Kasba Peth,Bopodi,12,01-11-2023,Purple Line,18.52162948,73.85949608
+CUST1699,Meghan King,59,Female,Aurangabad,Monthly Pass,Net Banking,Occasionally,District Court,Mandai,10,28-04-2023,Interchange Station,18.5204,73.8567
+CUST1700,Bonnie Moss,63,Male,Nashik,Monthly Pass,Cash,Daily,Nal Stop,Mandai,20,16-09-2022,Aqua Line,18.5083,73.8296
+CUST1701,Amanda Hartman,39,Female,Mumbai,Single,UPI,Weekly,Deccan Gymkhana,PMC,10,06-11-2023,Aqua Line,18.5204,73.8415
+CUST1702,Christine Munoz,47,Male,Aurangabad,Return,Cash,Occasionally,Pune Railway Station,Bhosari,22,11-12-2023,Aqua Line,18.5297,73.8726
+CUST1703,Kimberly Medina,24,Male,Aurangabad,Return,Net Banking,Occasionally,Bund Garden,Nal Stop,24,07-08-2023,Aqua Line,18.5371,73.8842
+CUST1704,Willie Patel,26,Male,Mumbai,Single,Cash,Occasionally,Ideal Colony,Dapodi,12,07-06-2023,Aqua Line,18.4942,73.8203
+CUST1705,Dave Caldwell,47,Female,Nashik,Return,Net Banking,Occasionally,Phugewadi,Chhatrapati Sambhaji Udyan,10,23-04-2024,Purple Line,18.592,73.829
+CUST1706,Monique Duran,61,Male,Nagpur,Monthly Pass,Credit Card,Weekly,Garware College,Mangalwar Peth,16,06-08-2023,Aqua Line,18.5161,73.8345
+CUST1707,Jonathan Thomas,43,Female,Pune,Return,Cash,Daily,Swargate,Pune Railway Station,10,21-05-2024,Purple Line,18.5018,73.8586
+CUST1708,Jessica Wallace,20,Male,Pune,Monthly Pass,Cash,Daily,Shivaji Nagar,Kasba Peth,10,09-07-2023,Purple Line,18.5308,73.8524
+CUST1709,Derek Cooke,37,Female,Nagpur,Monthly Pass,Cash,Weekly,Ramwadi,Shivaji Nagar,22,12-02-2023,Aqua Line,18.5583,73.9076
+CUST1710,William Mcmahon,41,Male,Nashik,Return,UPI,Occasionally,PMC,Chhatrapati Sambhaji Udyan,10,14-10-2022,Aqua Line,18.5169,73.8535
+CUST1711,Tracy Jordan,44,Male,Pune,Monthly Pass,Net Banking,Occasionally,Anand Nagar,Sant Tukaram Nagar,10,22-03-2024,Aqua Line,18.4956,73.8139
+CUST1712,George Russell,32,Female,Pune,Monthly Pass,Net Banking,Daily,Bopodi,Deccan Gymkhana,10,05-07-2023,Purple Line,18.5645,73.8456
+CUST1713,Catherine Nash,43,Male,Nagpur,Monthly Pass,UPI,Daily,Vanaz,District Court,22,13-06-2022,Aqua Line,18.5005,73.8077
+CUST1714,Melissa Sullivan,18,Male,Nashik,Return,Net Banking,Weekly,Swargate,Bopodi,16,18-04-2022,Purple Line,18.5018,73.8586
+CUST1715,Cynthia Miller,27,Male,Nagpur,Single,Net Banking,Occasionally,PCMC,Swargate,28,14-02-2022,Purple Line,18.62910766,73.80377477
+CUST1716,Patricia Juarez,27,Male,Aurangabad,Single,Credit Card,Daily,District Court,Kasarwadi,16,17-08-2024,Interchange Station,18.5204,73.8567
+CUST1717,Kim Douglas,65,Male,Nashik,Return,Credit Card,Occasionally,Mangalwar Peth,Nal Stop,18,29-05-2024,Aqua Line,18.5282,73.8623
+CUST1718,Brian Romero,47,Male,Aurangabad,Return,Credit Card,Weekly,PMC,Nal Stop,14,19-03-2023,Aqua Line,18.5169,73.8535
+CUST1719,Lauren Allen,53,Male,Nashik,Return,Net Banking,Weekly,Ideal Colony,Kalyani Nagar,30,15-07-2024,Aqua Line,18.4942,73.8203
+CUST1720,Brian Ramos,24,Female,Nagpur,Return,Net Banking,Daily,Bhosari,Ideal Colony,10,04-11-2022,Purple Line,18.6188,73.8136
+CUST1721,Lindsay Morgan,18,Male,Nagpur,Return,UPI,Daily,Ideal Colony,Anand Nagar,10,15-06-2022,Aqua Line,18.4942,73.8203
+CUST1722,Penny Davis,47,Male,Aurangabad,Monthly Pass,UPI,Daily,District Court,Kasarwadi,16,16-09-2023,Interchange Station,18.5204,73.8567
+CUST1723,Susan Frazier,61,Male,Aurangabad,Single,Credit Card,Weekly,Ideal Colony,Kalyani Nagar,30,07-03-2022,Aqua Line,18.4942,73.8203
+CUST1724,Brianna Johnson,34,Male,Aurangabad,Single,Cash,Weekly,District Court,Garware College,14,19-09-2024,Interchange Station,18.5204,73.8567
+CUST1725,Tiffany Noble,20,Female,Aurangabad,Single,Credit Card,Occasionally,Dapodi,PMC,10,04-11-2023,Purple Line,18.5783,73.8381
+CUST1726,Elizabeth Martinez,25,Female,Mumbai,Single,Cash,Weekly,Bopodi,Phugewadi,10,14-01-2022,Purple Line,18.5645,73.8456
+CUST1727,Mercedes Brown,59,Male,Nagpur,Return,Net Banking,Weekly,Garware College,District Court,14,16-06-2024,Aqua Line,18.5161,73.8345
+CUST1728,Derek Chambers,37,Female,Mumbai,Single,Cash,Daily,Mangalwar Peth,Anand Nagar,22,29-01-2022,Aqua Line,18.5282,73.8623
+CUST1729,Jessica Lynch,58,Male,Mumbai,Monthly Pass,UPI,Weekly,Anand Nagar,Vanaz,10,05-10-2024,Aqua Line,18.4956,73.8139
+CUST1730,Mary Stevenson,63,Female,Nashik,Return,Net Banking,Occasionally,Yerwada,Vanaz,30,30-12-2023,Aqua Line,18.5486,73.8925
+CUST1731,Kristen Mitchell,22,Female,Aurangabad,Single,Net Banking,Occasionally,Anand Nagar,Shivaji Nagar,18,14-05-2022,Aqua Line,18.4956,73.8139
+CUST1732,Morgan Carter,40,Male,Aurangabad,Single,Credit Card,Weekly,Sant Tukaram Nagar,Ideal Colony,10,26-12-2022,Purple Line,18.627,73.8075
+CUST1733,Tiffany Mathis,33,Male,Nagpur,Return,Cash,Occasionally,Kasarwadi,Sant Tukaram Nagar,10,15-02-2022,Purple Line,18.6069,73.8225
+CUST1734,Bonnie Thornton,32,Female,Pune,Monthly Pass,UPI,Weekly,Kasarwadi,Anand Nagar,10,17-08-2023,Purple Line,18.6069,73.8225
+CUST1735,Phillip Santiago,53,Female,Aurangabad,Monthly Pass,Credit Card,Daily,Kalyani Nagar,PMC,20,24-07-2024,Aqua Line,18.5515,73.9001
+CUST1736,Jonathan Gomez,33,Male,Pune,Single,UPI,Daily,Swargate,Bopodi,16,03-02-2022,Purple Line,18.5018,73.8586
+CUST1737,Curtis Morse,34,Female,Nashik,Monthly Pass,Credit Card,Weekly,Chhatrapati Sambhaji Udyan,Phugewadi,10,26-03-2024,Aqua Line,18.5206,73.8441
+CUST1738,Dalton Rose,40,Male,Mumbai,Single,Cash,Weekly,Shivaji Nagar,Sant Tukaram Nagar,18,20-11-2024,Purple Line,18.5308,73.8524
+CUST1739,Austin Butler,61,Female,Mumbai,Return,UPI,Weekly,Nal Stop,PCMC,12,14-11-2024,Aqua Line,18.5083,73.8296
+CUST1740,Deborah Graham,39,Male,Mumbai,Monthly Pass,Net Banking,Daily,Kalyani Nagar,PCMC,30,16-01-2022,Aqua Line,18.5515,73.9001
+CUST1741,Marilyn Ferguson,28,Female,Aurangabad,Return,Cash,Daily,Vanaz,PCMC,10,27-09-2022,Aqua Line,18.5005,73.8077
+CUST1742,Jennifer Burton,41,Female,Pune,Single,Cash,Weekly,Kasarwadi,Sant Tukaram Nagar,10,10-12-2022,Purple Line,18.6069,73.8225
+CUST1743,Adrian Johns,42,Female,Nagpur,Single,Net Banking,Weekly,Kalyani Nagar,Pune Railway Station,14,21-09-2024,Aqua Line,18.5515,73.9001
+CUST1744,Gary Jones,41,Male,Pune,Monthly Pass,Cash,Weekly,Bhosari,Pune Railway Station,22,30-06-2024,Purple Line,18.6188,73.8136
+CUST1745,Steven Davidson,60,Female,Mumbai,Single,Credit Card,Daily,Bund Garden,Bopodi,18,17-05-2022,Aqua Line,18.5371,73.8842
+CUST1746,Carol Wright,19,Male,Aurangabad,Monthly Pass,Net Banking,Weekly,Bund Garden,Anand Nagar,28,25-09-2023,Aqua Line,18.5371,73.8842
+CUST1747,Mitchell Bell,39,Male,Pune,Single,Net Banking,Daily,Garware College,Kalyani Nagar,26,31-07-2023,Aqua Line,18.5161,73.8345
+CUST1748,Leah Frey,39,Male,Aurangabad,Single,Net Banking,Daily,Ruby Hall Clinic,Sant Tukaram Nagar,26,16-10-2024,Aqua Line,18.5341,73.8795
+CUST1749,Jennifer Harding,47,Female,Mumbai,Monthly Pass,Cash,Occasionally,Anand Nagar,Kalyani Nagar,30,11-07-2023,Aqua Line,18.4956,73.8139
+CUST1750,Christy Lambert,54,Female,Pune,Single,Credit Card,Occasionally,Bund Garden,Bhosari,26,07-10-2022,Aqua Line,18.5371,73.8842
+CUST1751,Amy Arias,46,Female,Nagpur,Return,Credit Card,Weekly,Kasba Peth,District Court,10,07-02-2023,Purple Line,18.52162948,73.85949608
+CUST1752,Jon Williams,21,Female,Mumbai,Monthly Pass,Cash,Occasionally,Anand Nagar,Bund Garden,28,01-04-2023,Aqua Line,18.4956,73.8139
+CUST1753,Michael Wolf,27,Male,Nashik,Single,UPI,Occasionally,Kasba Peth,Sant Tukaram Nagar,22,24-01-2023,Purple Line,18.52162948,73.85949608
+CUST1754,Melissa Bennett,55,Female,Pune,Single,UPI,Occasionally,Mangalwar Peth,Pune Railway Station,10,19-03-2023,Aqua Line,18.5282,73.8623
+CUST1755,Julie Holmes,32,Female,Aurangabad,Monthly Pass,Net Banking,Occasionally,Ramwadi,Kasba Peth,18,25-09-2024,Aqua Line,18.5583,73.9076
+CUST1756,Luis Thomas,50,Male,Nagpur,Monthly Pass,Cash,Weekly,Swargate,Kasba Peth,10,07-11-2022,Purple Line,18.5018,73.8586
+CUST1757,Michelle Morales,57,Male,Nagpur,Monthly Pass,Credit Card,Weekly,Ramwadi,Vanaz,30,23-12-2022,Aqua Line,18.5583,73.9076
+CUST1758,Isabella Brooks,62,Female,Mumbai,Monthly Pass,Net Banking,Occasionally,Shivaji Nagar,Bhosari,16,23-08-2023,Purple Line,18.5308,73.8524
+CUST1759,David Campbell,38,Male,Nagpur,Single,Cash,Weekly,Bopodi,Mangalwar Peth,12,12-09-2022,Purple Line,18.5645,73.8456
+CUST1760,Eric Underwood,30,Male,Nashik,Single,UPI,Occasionally,Anand Nagar,PCMC,10,05-12-2024,Aqua Line,18.4956,73.8139
+CUST1761,Danielle Gibbs,18,Male,Aurangabad,Return,UPI,Occasionally,Deccan Gymkhana,District Court,12,27-10-2022,Aqua Line,18.5204,73.8415
+CUST1762,David Olsen,35,Male,Nagpur,Monthly Pass,Cash,Occasionally,District Court,Ramwadi,20,20-06-2023,Interchange Station,18.5204,73.8567
+CUST1763,Michael Jones,54,Female,Nashik,Return,Net Banking,Weekly,Ideal Colony,Deccan Gymkhana,12,25-04-2022,Aqua Line,18.4942,73.8203
+CUST1764,Laurie Ward,42,Female,Aurangabad,Monthly Pass,Cash,Daily,Bund Garden,Dapodi,20,13-01-2023,Aqua Line,18.5371,73.8842
+CUST1765,Mr. Dylan Roman,52,Female,Aurangabad,Single,Net Banking,Weekly,Kasba Peth,Ideal Colony,20,18-07-2024,Purple Line,18.52162948,73.85949608
+CUST1766,Angela Jones,21,Male,Nashik,Return,UPI,Daily,Anand Nagar,District Court,20,11-04-2022,Aqua Line,18.4956,73.8139
+CUST1767,Yvonne Welch,38,Female,Mumbai,Monthly Pass,UPI,Occasionally,District Court,Bopodi,10,06-11-2022,Interchange Station,18.5204,73.8567
+CUST1768,Thomas Miller,56,Female,Aurangabad,Single,UPI,Daily,Ramwadi,Bund Garden,12,02-03-2023,Aqua Line,18.5583,73.9076
+CUST1769,Jeffery Fuller,23,Male,Nashik,Return,UPI,Daily,Vanaz,Anand Nagar,10,12-03-2024,Aqua Line,18.5005,73.8077
+CUST1770,Bradley Thomas,61,Male,Pune,Monthly Pass,Net Banking,Occasionally,Kalyani Nagar,Mangalwar Peth,16,08-09-2024,Aqua Line,18.5515,73.9001
+CUST1771,Jennifer Mccormick,21,Male,Nashik,Return,UPI,Weekly,Anand Nagar,Kalyani Nagar,30,10-08-2022,Aqua Line,18.4956,73.8139
+CUST1772,Travis Hill,34,Female,Mumbai,Return,Cash,Daily,Chhatrapati Sambhaji Udyan,Deccan Gymkhana,10,12-05-2023,Aqua Line,18.5206,73.8441
+CUST1773,Kimberly Ramirez,58,Female,Aurangabad,Monthly Pass,UPI,Occasionally,PCMC,Yerwada,30,14-04-2023,Purple Line,18.62910766,73.80377477
+CUST1774,Nicholas Allen,53,Male,Pune,Single,Cash,Weekly,Ramwadi,Chhatrapati Sambhaji Udyan,24,28-08-2022,Aqua Line,18.5583,73.9076
+CUST1775,Sara Ortiz,19,Female,Mumbai,Monthly Pass,UPI,Occasionally,Yerwada,Kalyani Nagar,10,01-01-2023,Aqua Line,18.5486,73.8925
+CUST1776,Jake Andrade,25,Female,Mumbai,Return,Credit Card,Occasionally,District Court,Bund Garden,14,02-12-2024,Interchange Station,18.5204,73.8567
+CUST1777,Brenda Riley,22,Male,Pune,Single,Cash,Daily,Pune Railway Station,Yerwada,12,21-01-2022,Aqua Line,18.5297,73.8726
+CUST1778,James Lang,31,Female,Nashik,Return,UPI,Occasionally,District Court,Mandai,10,10-12-2023,Interchange Station,18.5204,73.8567
+CUST1779,Rachel Bell,30,Female,Pune,Single,Net Banking,Weekly,PMC,Yerwada,18,08-06-2024,Aqua Line,18.5169,73.8535
+CUST1780,Sharon Mcgrath,61,Female,Mumbai,Monthly Pass,Net Banking,Occasionally,Nal Stop,Ruby Hall Clinic,22,27-03-2022,Aqua Line,18.5083,73.8296
+CUST1781,Daniel Bell,58,Male,Pune,Single,Cash,Daily,Dapodi,Anand Nagar,14,20-09-2024,Purple Line,18.5783,73.8381
+CUST1782,Tina Gordon,20,Male,Nashik,Return,UPI,Occasionally,Dapodi,PCMC,16,26-03-2022,Purple Line,18.5783,73.8381
+CUST1783,David Tucker,43,Male,Pune,Monthly Pass,Credit Card,Weekly,Bhosari,Vanaz,10,21-10-2024,Purple Line,18.6188,73.8136
+CUST1784,Trevor Rodriguez,18,Male,Pune,Return,Credit Card,Weekly,Bhosari,Chhatrapati Sambhaji Udyan,14,03-05-2023,Purple Line,18.6188,73.8136
+CUST1785,Matthew Huff,24,Female,Aurangabad,Single,Credit Card,Weekly,Ideal Colony,Vanaz,10,20-11-2022,Aqua Line,18.4942,73.8203
+CUST1786,Mandy Garcia,63,Female,Nashik,Single,UPI,Weekly,Mangalwar Peth,Nal Stop,18,25-07-2024,Aqua Line,18.5282,73.8623
+CUST1787,Victoria Roberts,28,Female,Nashik,Monthly Pass,Net Banking,Occasionally,Ramwadi,Mandai,16,16-05-2022,Aqua Line,18.5583,73.9076
+CUST1788,Jose Alvarez,28,Female,Mumbai,Return,UPI,Occasionally,Chhatrapati Sambhaji Udyan,Sant Tukaram Nagar,16,12-06-2023,Aqua Line,18.5206,73.8441
+CUST1789,Amanda Johnson,56,Female,Aurangabad,Single,Net Banking,Daily,Pune Railway Station,Chhatrapati Sambhaji Udyan,14,19-02-2024,Aqua Line,18.5297,73.8726
+CUST1790,David Weber,55,Female,Nashik,Single,UPI,Daily,Bund Garden,District Court,14,02-09-2023,Aqua Line,18.5371,73.8842
+CUST1791,April Castillo,34,Female,Nashik,Return,UPI,Weekly,Deccan Gymkhana,Nal Stop,10,03-05-2022,Aqua Line,18.5204,73.8415
+CUST1792,Mr. Matthew Rush,42,Female,Nagpur,Return,Credit Card,Daily,Swargate,Ruby Hall Clinic,10,30-04-2022,Purple Line,18.5018,73.8586
+CUST1793,Samantha Smith,65,Male,Nashik,Single,Cash,Occasionally,Bhosari,Ramwadi,30,21-04-2024,Purple Line,18.6188,73.8136
+CUST1794,Jeremy Krause,52,Male,Mumbai,Single,Credit Card,Weekly,PCMC,Anand Nagar,10,30-03-2024,Purple Line,18.62910766,73.80377477
+CUST1795,Krista Lee,39,Male,Nagpur,Monthly Pass,Net Banking,Weekly,Kasba Peth,Ruby Hall Clinic,10,07-02-2023,Purple Line,18.52162948,73.85949608
+CUST1796,Dawn Ortega,65,Male,Nagpur,Monthly Pass,UPI,Weekly,Ruby Hall Clinic,Bopodi,16,28-04-2024,Aqua Line,18.5341,73.8795
+CUST1797,Megan Morgan,47,Male,Pune,Monthly Pass,Credit Card,Occasionally,Kasarwadi,Yerwada,26,07-02-2022,Purple Line,18.6069,73.8225
+CUST1798,Jason Navarro,37,Female,Aurangabad,Return,Credit Card,Daily,Sant Tukaram Nagar,Vanaz,10,21-10-2022,Purple Line,18.627,73.8075
+CUST1799,Caroline Warren,32,Female,Aurangabad,Return,Credit Card,Daily,Pune Railway Station,Ramwadi,16,02-10-2023,Aqua Line,18.5297,73.8726
+CUST1800,Kelly Banks,54,Male,Pune,Single,UPI,Weekly,Kasarwadi,Vanaz,12,09-11-2024,Purple Line,18.6069,73.8225
+CUST1801,Jeremy Frederick,24,Male,Aurangabad,Return,Net Banking,Daily,Ramwadi,Pune Railway Station,16,31-01-2024,Aqua Line,18.5583,73.9076
+CUST1802,Jason Browning,33,Male,Nagpur,Monthly Pass,UPI,Weekly,Kasarwadi,PCMC,12,16-12-2023,Purple Line,18.6069,73.8225
+CUST1803,Pamela Rodgers,38,Female,Nashik,Return,Cash,Occasionally,Garware College,Vanaz,14,08-03-2023,Aqua Line,18.5161,73.8345
+CUST1804,David Holloway,21,Female,Pune,Single,Credit Card,Occasionally,Dapodi,Bopodi,10,27-10-2023,Purple Line,18.5783,73.8381
+CUST1805,Lawrence Thompson,56,Male,Aurangabad,Monthly Pass,Net Banking,Weekly,Nal Stop,Mangalwar Peth,18,05-12-2024,Aqua Line,18.5083,73.8296
+CUST1806,Jennifer Ellis,49,Female,Pune,Single,Credit Card,Occasionally,Sant Tukaram Nagar,Bund Garden,28,08-06-2022,Purple Line,18.627,73.8075
+CUST1807,Dr. Regina Alvarez,54,Female,Nashik,Return,Credit Card,Weekly,Yerwada,Kalyani Nagar,10,21-12-2024,Aqua Line,18.5486,73.8925
+CUST1808,Deborah Williams,22,Female,Pune,Monthly Pass,Net Banking,Daily,PMC,Bund Garden,16,20-03-2024,Aqua Line,18.5169,73.8535
+CUST1809,Stephen Rose,26,Male,Nashik,Single,Credit Card,Daily,Garware College,Kasarwadi,10,18-10-2024,Aqua Line,18.5161,73.8345
+CUST1810,Anthony Rogers,55,Female,Mumbai,Monthly Pass,Cash,Daily,Kasarwadi,Nal Stop,10,04-10-2022,Purple Line,18.6069,73.8225
+CUST1811,Michael Moore,24,Female,Aurangabad,Monthly Pass,Net Banking,Weekly,Kalyani Nagar,Mandai,14,16-06-2022,Aqua Line,18.5515,73.9001
+CUST1812,Timothy West,50,Male,Nashik,Return,UPI,Daily,Kasarwadi,Vanaz,12,15-03-2024,Purple Line,18.6069,73.8225
+CUST1813,Charles Thomas,18,Female,Mumbai,Return,Net Banking,Daily,Kasba Peth,District Court,10,26-01-2023,Purple Line,18.52162948,73.85949608
+CUST1814,Eric Wilson,59,Male,Nagpur,Monthly Pass,UPI,Weekly,Swargate,Shivaji Nagar,14,14-04-2024,Purple Line,18.5018,73.8586
+CUST1815,Matthew Howard,53,Female,Pune,Return,Net Banking,Daily,Bhosari,Nal Stop,10,28-04-2024,Purple Line,18.6188,73.8136
+CUST1816,Bryce Ford,52,Male,Nagpur,Single,Cash,Occasionally,Deccan Gymkhana,PMC,10,29-11-2024,Aqua Line,18.5204,73.8415
+CUST1817,Kimberly Gonzales,38,Male,Nashik,Monthly Pass,Credit Card,Daily,Phugewadi,Kalyani Nagar,26,25-08-2022,Purple Line,18.592,73.829
+CUST1818,Mike Washington,60,Female,Nashik,Return,UPI,Daily,Swargate,Vanaz,28,09-04-2023,Purple Line,18.5018,73.8586
+CUST1819,Keith Medina,18,Female,Mumbai,Return,UPI,Weekly,Shivaji Nagar,Dapodi,10,18-09-2024,Purple Line,18.5308,73.8524
+CUST1820,Denise Garcia,52,Male,Aurangabad,Monthly Pass,Credit Card,Weekly,Mandai,Sant Tukaram Nagar,24,24-06-2022,Purple Line,18.51,73.856
+CUST1821,Monica Howard,55,Female,Pune,Return,UPI,Daily,Ruby Hall Clinic,Ideal Colony,24,12-04-2024,Aqua Line,18.5341,73.8795
+CUST1822,Evelyn Hamilton,26,Male,Aurangabad,Single,UPI,Occasionally,Pune Railway Station,PCMC,26,24-12-2023,Aqua Line,18.5297,73.8726
+CUST1823,Thomas Nguyen,34,Male,Nashik,Single,Credit Card,Occasionally,PMC,PCMC,20,04-09-2023,Aqua Line,18.5169,73.8535
+CUST1824,Michael Wallace,56,Male,Mumbai,Return,Cash,Occasionally,Ramwadi,Anand Nagar,30,25-03-2022,Aqua Line,18.5583,73.9076
+CUST1825,Tony Wilson,51,Female,Mumbai,Return,UPI,Occasionally,Mandai,Pune Railway Station,10,19-05-2024,Purple Line,18.51,73.856
+CUST1826,Robert Johnson,47,Male,Pune,Single,UPI,Occasionally,Ideal Colony,Yerwada,28,06-09-2022,Aqua Line,18.4942,73.8203
+CUST1827,Edward Logan,42,Male,Nagpur,Monthly Pass,UPI,Daily,Nal Stop,District Court,16,11-11-2024,Aqua Line,18.5083,73.8296
+CUST1828,Victor Kane DDS,42,Male,Pune,Monthly Pass,Cash,Occasionally,District Court,Vanaz,22,13-04-2022,Interchange Station,18.5204,73.8567
+CUST1829,William Wood,43,Male,Nagpur,Monthly Pass,Credit Card,Occasionally,Ruby Hall Clinic,Kalyani Nagar,12,22-10-2023,Aqua Line,18.5341,73.8795
+CUST1830,Joshua Mooney,30,Male,Mumbai,Single,Credit Card,Weekly,Kasba Peth,Vanaz,24,07-12-2023,Purple Line,18.52162948,73.85949608
+CUST1831,Cameron Carroll,36,Female,Mumbai,Monthly Pass,Net Banking,Weekly,Yerwada,Shivaji Nagar,18,22-08-2022,Aqua Line,18.5486,73.8925
+CUST1832,Rachael Holmes,21,Female,Aurangabad,Return,Net Banking,Occasionally,Ruby Hall Clinic,Swargate,10,28-09-2022,Aqua Line,18.5341,73.8795
+CUST1833,Victor Dodson,39,Male,Pune,Monthly Pass,Net Banking,Occasionally,Garware College,Kasarwadi,10,14-08-2024,Aqua Line,18.5161,73.8345
+CUST1834,Eric Caldwell,58,Female,Aurangabad,Return,UPI,Daily,Kasba Peth,Pune Railway Station,10,14-01-2024,Purple Line,18.52162948,73.85949608
+CUST1835,Natalie Chung,27,Female,Nagpur,Return,Cash,Daily,Mangalwar Peth,Mandai,10,07-04-2024,Aqua Line,18.5282,73.8623
+CUST1836,Steven Sullivan,60,Female,Nashik,Return,Cash,Occasionally,Chhatrapati Sambhaji Udyan,PMC,10,06-03-2024,Aqua Line,18.5206,73.8441
+CUST1837,Erika Byrd,21,Female,Pune,Return,UPI,Occasionally,Bopodi,PCMC,18,22-02-2022,Purple Line,18.5645,73.8456
+CUST1838,Melissa Cooper,39,Male,Mumbai,Single,UPI,Weekly,Swargate,Kasarwadi,22,07-06-2024,Purple Line,18.5018,73.8586
+CUST1839,Michael Phillips,47,Male,Mumbai,Return,Net Banking,Daily,Ideal Colony,District Court,18,30-05-2022,Aqua Line,18.4942,73.8203
+CUST1840,Jeremy Chavez,56,Female,Nashik,Single,Cash,Occasionally,Deccan Gymkhana,PCMC,16,03-12-2023,Aqua Line,18.5204,73.8415
+CUST1841,John Hayes,40,Female,Aurangabad,Monthly Pass,Cash,Occasionally,Ideal Colony,Bhosari,10,30-12-2022,Aqua Line,18.4942,73.8203
+CUST1842,Tammy Wolfe,60,Male,Pune,Single,Cash,Weekly,Kalyani Nagar,PCMC,30,20-11-2022,Aqua Line,18.5515,73.9001
+CUST1843,Steven Lopez,18,Female,Nagpur,Monthly Pass,Net Banking,Daily,Bopodi,Dapodi,10,16-07-2022,Purple Line,18.5645,73.8456
+CUST1844,Nicholas Jacobs,27,Male,Nashik,Single,Net Banking,Weekly,Ruby Hall Clinic,Mangalwar Peth,10,14-05-2024,Aqua Line,18.5341,73.8795
+CUST1845,Christopher Wilson,21,Male,Nagpur,Single,Net Banking,Weekly,Phugewadi,Deccan Gymkhana,10,02-04-2022,Purple Line,18.592,73.829
+CUST1846,John Montoya,52,Male,Nagpur,Return,UPI,Weekly,Vanaz,Bhosari,10,02-01-2024,Aqua Line,18.5005,73.8077
+CUST1847,Eric Owens,46,Male,Nagpur,Single,Net Banking,Daily,Kalyani Nagar,Garware College,26,21-05-2022,Aqua Line,18.5515,73.9001
+CUST1848,Teresa Sullivan,18,Male,Pune,Single,Net Banking,Occasionally,Bopodi,Bhosari,14,30-03-2023,Purple Line,18.5645,73.8456
+CUST1849,Amber Meadows,27,Male,Mumbai,Monthly Pass,Cash,Daily,Bund Garden,Shivaji Nagar,16,23-10-2024,Aqua Line,18.5371,73.8842
+CUST1850,Antonio Perez,26,Male,Aurangabad,Single,UPI,Daily,PCMC,Ruby Hall Clinic,28,27-04-2023,Purple Line,18.62910766,73.80377477
+CUST1851,Francisco Huff,64,Male,Nagpur,Monthly Pass,Cash,Weekly,Chhatrapati Sambhaji Udyan,Ruby Hall Clinic,16,19-12-2024,Aqua Line,18.5206,73.8441
+CUST1852,Paul Lee,20,Male,Nashik,Single,Cash,Weekly,Ruby Hall Clinic,Chhatrapati Sambhaji Udyan,16,12-03-2023,Aqua Line,18.5341,73.8795
+CUST1853,James Barry,27,Male,Pune,Monthly Pass,Cash,Weekly,PCMC,Pune Railway Station,26,19-01-2022,Purple Line,18.62910766,73.80377477
+CUST1854,Julie Hall,19,Male,Aurangabad,Single,Net Banking,Occasionally,Swargate,Shivaji Nagar,14,15-01-2023,Purple Line,18.5018,73.8586
+CUST1855,Thomas Huber,23,Male,Aurangabad,Single,Cash,Weekly,Shivaji Nagar,PMC,10,23-06-2024,Purple Line,18.5308,73.8524
+CUST1856,Charles Bartlett,18,Male,Nagpur,Return,Cash,Daily,Ramwadi,District Court,20,24-03-2022,Aqua Line,18.5583,73.9076
+CUST1857,Francisco Adams,28,Male,Aurangabad,Single,Net Banking,Weekly,Chhatrapati Sambhaji Udyan,Kalyani Nagar,22,26-01-2023,Aqua Line,18.5206,73.8441
+CUST1858,Bradley Kelly,58,Male,Pune,Return,UPI,Weekly,Ideal Colony,Anand Nagar,10,16-08-2022,Aqua Line,18.4942,73.8203
+CUST1859,Nicholas Hodges,39,Male,Nashik,Single,UPI,Weekly,Garware College,Bund Garden,22,20-12-2023,Aqua Line,18.5161,73.8345
+CUST1860,Michelle Perry,34,Female,Aurangabad,Return,Cash,Daily,Bopodi,Bhosari,14,28-07-2024,Purple Line,18.5645,73.8456
+CUST1861,Kathryn Horton,41,Male,Pune,Single,UPI,Daily,Shivaji Nagar,District Court,10,08-08-2023,Purple Line,18.5308,73.8524
+CUST1862,William Zimmerman,21,Female,Nashik,Single,Cash,Daily,PMC,District Court,10,09-08-2024,Aqua Line,18.5169,73.8535
+CUST1863,Jennifer Hughes,28,Female,Aurangabad,Monthly Pass,UPI,Occasionally,PMC,Kalyani Nagar,20,22-11-2022,Aqua Line,18.5169,73.8535
+CUST1864,Deborah Brewer,35,Female,Pune,Return,Credit Card,Daily,Shivaji Nagar,Vanaz,20,12-05-2023,Purple Line,18.5308,73.8524
+CUST1865,Melanie Hoffman,52,Male,Mumbai,Return,Credit Card,Weekly,Deccan Gymkhana,Bhosari,12,08-07-2024,Aqua Line,18.5204,73.8415
+CUST1866,William Pope,27,Male,Pune,Monthly Pass,Cash,Occasionally,Nal Stop,Phugewadi,10,13-05-2022,Aqua Line,18.5083,73.8296
+CUST1867,Mrs. Kristina Holmes,19,Male,Mumbai,Monthly Pass,Credit Card,Daily,PCMC,Bhosari,10,12-12-2023,Purple Line,18.62910766,73.80377477
+CUST1868,Brandon Walker,28,Female,Nashik,Single,UPI,Weekly,Swargate,Bund Garden,10,26-09-2023,Purple Line,18.5018,73.8586
+CUST1869,Jeff Jones,38,Male,Pune,Single,Credit Card,Occasionally,Sant Tukaram Nagar,Chhatrapati Sambhaji Udyan,16,24-01-2023,Purple Line,18.627,73.8075
+CUST1870,Jonathan Brown,55,Female,Pune,Return,Credit Card,Weekly,District Court,Vanaz,22,19-10-2022,Interchange Station,18.5204,73.8567
+CUST1871,Larry Koch,23,Female,Nagpur,Monthly Pass,Cash,Weekly,Kasba Peth,Mandai,10,07-08-2024,Purple Line,18.52162948,73.85949608
+CUST1872,Tanya Lin,54,Female,Aurangabad,Return,Net Banking,Occasionally,Deccan Gymkhana,Garware College,10,10-06-2023,Aqua Line,18.5204,73.8415
+CUST1873,Margaret Lopez,37,Female,Mumbai,Single,Cash,Weekly,Pune Railway Station,Mandai,10,03-06-2023,Aqua Line,18.5297,73.8726
+CUST1874,Dawn Ayala,41,Female,Nashik,Monthly Pass,Cash,Daily,Ideal Colony,Shivaji Nagar,16,16-04-2022,Aqua Line,18.4942,73.8203
+CUST1875,Debra Davis,24,Male,Nagpur,Monthly Pass,Net Banking,Daily,Chhatrapati Sambhaji Udyan,Shivaji Nagar,10,01-10-2024,Aqua Line,18.5206,73.8441
+CUST1876,Joseph Woodard,28,Male,Nagpur,Monthly Pass,Net Banking,Daily,Kalyani Nagar,Ramwadi,10,26-10-2022,Aqua Line,18.5515,73.9001
+CUST1877,Andrea Davis,19,Male,Pune,Monthly Pass,Cash,Weekly,Dapodi,Kasba Peth,14,06-01-2024,Purple Line,18.5783,73.8381
+CUST1878,David King,44,Female,Aurangabad,Single,Credit Card,Weekly,Vanaz,Bhosari,10,21-05-2022,Aqua Line,18.5005,73.8077
+CUST1879,Michael Schneider,50,Male,Nashik,Monthly Pass,UPI,Occasionally,PCMC,PMC,20,30-05-2024,Purple Line,18.62910766,73.80377477
+CUST1880,Amanda Torres,23,Female,Nashik,Single,Credit Card,Daily,Yerwada,Kasba Peth,14,24-03-2024,Aqua Line,18.5486,73.8925
+CUST1881,Derek Myers,33,Female,Nashik,Single,Cash,Occasionally,Vanaz,PCMC,10,03-08-2023,Aqua Line,18.5005,73.8077
+CUST1882,Kiara Jones,43,Male,Mumbai,Monthly Pass,Credit Card,Weekly,Kasarwadi,Bhosari,10,03-10-2022,Purple Line,18.6069,73.8225
+CUST1883,Kerri Campbell,64,Male,Aurangabad,Single,Net Banking,Daily,Anand Nagar,Dapodi,14,27-01-2022,Aqua Line,18.4956,73.8139
+CUST1884,Kathryn Glass,49,Male,Nagpur,Single,UPI,Weekly,PCMC,District Court,22,30-08-2024,Purple Line,18.62910766,73.80377477
+CUST1885,Erika Lawrence,61,Female,Nashik,Single,Net Banking,Occasionally,Garware College,Dapodi,10,14-02-2022,Aqua Line,18.5161,73.8345
+CUST1886,Brittany Thompson,56,Male,Aurangabad,Return,Credit Card,Weekly,Shivaji Nagar,Bopodi,10,11-09-2022,Purple Line,18.5308,73.8524
+CUST1887,Christina Hampton,57,Male,Nashik,Return,UPI,Daily,Chhatrapati Sambhaji Udyan,Mandai,14,07-05-2023,Aqua Line,18.5206,73.8441
+CUST1888,Katie Waters,44,Male,Aurangabad,Single,UPI,Occasionally,Shivaji Nagar,Chhatrapati Sambhaji Udyan,10,11-06-2022,Purple Line,18.5308,73.8524
+CUST1889,Patricia Navarro,54,Male,Aurangabad,Return,Net Banking,Weekly,Anand Nagar,District Court,20,01-09-2023,Aqua Line,18.4956,73.8139
+CUST1890,Martin Mcconnell,48,Female,Aurangabad,Monthly Pass,Net Banking,Occasionally,Ruby Hall Clinic,Swargate,10,02-02-2024,Aqua Line,18.5341,73.8795
+CUST1891,Logan Mclean,47,Male,Mumbai,Return,UPI,Occasionally,Anand Nagar,Ramwadi,30,26-09-2023,Aqua Line,18.4956,73.8139
+CUST1892,Peter Gordon,53,Male,Aurangabad,Monthly Pass,UPI,Weekly,Yerwada,PMC,18,15-11-2023,Aqua Line,18.5486,73.8925
+CUST1893,Pamela Duke,64,Male,Aurangabad,Single,Cash,Daily,Pune Railway Station,Mandai,10,17-05-2022,Aqua Line,18.5297,73.8726
+CUST1894,Anthony Johnson PhD,18,Male,Nagpur,Return,Net Banking,Weekly,Bopodi,Bhosari,14,15-01-2023,Purple Line,18.5645,73.8456
+CUST1895,Jessica Sherman,47,Female,Pune,Return,Net Banking,Daily,PCMC,Phugewadi,14,14-10-2022,Purple Line,18.62910766,73.80377477
+CUST1896,Angela Peterson,23,Male,Nagpur,Monthly Pass,Cash,Occasionally,Pune Railway Station,Garware College,18,23-09-2022,Aqua Line,18.5297,73.8726
+CUST1897,Jenny Osborne,52,Female,Nagpur,Monthly Pass,Net Banking,Weekly,District Court,Kasarwadi,16,04-04-2022,Interchange Station,18.5204,73.8567
+CUST1898,Stephen Matthews,64,Male,Pune,Return,UPI,Weekly,Vanaz,Deccan Gymkhana,16,06-08-2024,Aqua Line,18.5005,73.8077
+CUST1899,Marissa Johnson,37,Male,Nagpur,Monthly Pass,Cash,Occasionally,Deccan Gymkhana,Chhatrapati Sambhaji Udyan,10,30-09-2024,Aqua Line,18.5204,73.8415
+CUST1900,John Schmidt,20,Female,Mumbai,Return,Net Banking,Daily,District Court,Ruby Hall Clinic,12,03-01-2024,Interchange Station,18.5204,73.8567
+CUST1901,Gina Phillips,25,Male,Nagpur,Single,Cash,Weekly,Kasba Peth,Shivaji Nagar,10,29-04-2022,Purple Line,18.52162948,73.85949608
+CUST1902,Alexandria Wagner,24,Male,Pune,Monthly Pass,Credit Card,Daily,Mandai,PMC,12,17-05-2024,Purple Line,18.51,73.856
+CUST1903,Austin James,40,Male,Nashik,Return,Net Banking,Occasionally,Nal Stop,Vanaz,12,20-11-2024,Aqua Line,18.5083,73.8296
+CUST1904,Kimberly Ortiz,49,Male,Nagpur,Return,Cash,Daily,Chhatrapati Sambhaji Udyan,Shivaji Nagar,10,24-04-2024,Aqua Line,18.5206,73.8441
+CUST1905,Todd Davidson,65,Male,Nagpur,Single,Cash,Occasionally,Anand Nagar,Ideal Colony,10,12-11-2024,Aqua Line,18.4956,73.8139
+CUST1906,Emily Roberts,65,Male,Pune,Single,Net Banking,Daily,Mandai,Chhatrapati Sambhaji Udyan,14,29-03-2023,Purple Line,18.51,73.856
+CUST1907,Kaylee Long,64,Male,Pune,Return,Credit Card,Weekly,Bund Garden,Anand Nagar,28,07-10-2024,Aqua Line,18.5371,73.8842
+CUST1908,Bobby Armstrong,48,Male,Aurangabad,Single,Net Banking,Weekly,Phugewadi,Dapodi,10,21-05-2024,Purple Line,18.592,73.829
+CUST1909,James White,61,Female,Nashik,Single,Net Banking,Daily,Bhosari,Phugewadi,10,14-01-2024,Purple Line,18.6188,73.8136
+CUST1910,Lisa Kelly,61,Male,Nashik,Single,UPI,Daily,Ramwadi,Bopodi,24,25-09-2022,Aqua Line,18.5583,73.9076
+CUST1911,Jamie Johnson,50,Male,Nashik,Return,Net Banking,Daily,Pune Railway Station,Kasarwadi,20,21-05-2022,Aqua Line,18.5297,73.8726
+CUST1912,Amanda Lee,59,Female,Pune,Monthly Pass,UPI,Daily,Ramwadi,Ideal Colony,30,11-09-2023,Aqua Line,18.5583,73.9076
+CUST1913,Virginia Acosta,54,Male,Nagpur,Return,UPI,Daily,Anand Nagar,Phugewadi,12,23-12-2022,Aqua Line,18.4956,73.8139
+CUST1914,Thomas Marshall,41,Male,Aurangabad,Monthly Pass,UPI,Weekly,Phugewadi,District Court,14,16-10-2022,Purple Line,18.592,73.829
+CUST1915,Tyler Russell,40,Female,Aurangabad,Return,Net Banking,Occasionally,Yerwada,Ramwadi,10,22-04-2024,Aqua Line,18.5486,73.8925
+CUST1916,Brian Moran,59,Female,Nagpur,Return,Cash,Occasionally,Bund Garden,Swargate,10,09-07-2023,Aqua Line,18.5371,73.8842
+CUST1917,Connor Washington DVM,62,Female,Nagpur,Single,UPI,Weekly,Phugewadi,Deccan Gymkhana,10,11-11-2022,Purple Line,18.592,73.829
+CUST1918,Jesse Moore,27,Female,Nagpur,Return,UPI,Daily,Mangalwar Peth,Bund Garden,12,20-01-2022,Aqua Line,18.5282,73.8623
+CUST1919,Tammy Lewis,48,Female,Nagpur,Monthly Pass,Credit Card,Weekly,Deccan Gymkhana,Ramwadi,26,16-06-2023,Aqua Line,18.5204,73.8415
+CUST1920,Dustin Snow,24,Male,Nagpur,Return,Credit Card,Occasionally,Pune Railway Station,Mangalwar Peth,10,24-02-2024,Aqua Line,18.5297,73.8726
+CUST1921,Tracey Torres,46,Male,Pune,Return,Credit Card,Occasionally,Kalyani Nagar,PCMC,30,28-06-2022,Aqua Line,18.5515,73.9001
+CUST1922,Ashley Bell,41,Female,Aurangabad,Single,Credit Card,Weekly,Kasba Peth,Mangalwar Peth,10,29-12-2022,Purple Line,18.52162948,73.85949608
+CUST1923,Taylor Walton,30,Male,Nagpur,Return,Net Banking,Weekly,Nal Stop,Bund Garden,24,24-08-2023,Aqua Line,18.5083,73.8296
+CUST1924,Dominique Pham,47,Male,Nashik,Monthly Pass,Cash,Daily,Mangalwar Peth,Pune Railway Station,10,04-01-2024,Aqua Line,18.5282,73.8623
+CUST1925,Wendy Hawkins,20,Female,Nagpur,Return,UPI,Daily,Ideal Colony,Phugewadi,10,11-12-2023,Aqua Line,18.4942,73.8203
+CUST1926,Adam Bishop,28,Male,Mumbai,Return,Net Banking,Occasionally,Ideal Colony,PCMC,10,04-07-2023,Aqua Line,18.4942,73.8203
+CUST1927,Katherine Rodriguez,57,Male,Mumbai,Return,UPI,Occasionally,Mangalwar Peth,PCMC,24,20-11-2024,Aqua Line,18.5282,73.8623
+CUST1928,Janice Cox,43,Female,Pune,Return,Net Banking,Occasionally,Ramwadi,Bhosari,30,29-02-2024,Aqua Line,18.5583,73.9076
+CUST1929,Alicia Martinez,19,Male,Aurangabad,Return,Net Banking,Occasionally,District Court,Kalyani Nagar,18,17-10-2023,Interchange Station,18.5204,73.8567
+CUST1930,Kari Burns,65,Female,Nagpur,Single,UPI,Occasionally,Deccan Gymkhana,Swargate,18,24-08-2023,Aqua Line,18.5204,73.8415
+CUST1931,Paul Robertson,59,Male,Nagpur,Return,UPI,Weekly,Sant Tukaram Nagar,Bund Garden,28,20-01-2024,Purple Line,18.627,73.8075
+CUST1932,Steven Stein,62,Male,Pune,Single,Net Banking,Weekly,Swargate,Anand Nagar,26,24-12-2024,Purple Line,18.5018,73.8586
+CUST1933,Chelsea Jones,64,Male,Pune,Return,Net Banking,Weekly,Kalyani Nagar,Shivaji Nagar,20,02-10-2022,Aqua Line,18.5515,73.9001
+CUST1934,Ashley Hays,61,Female,Nashik,Single,UPI,Weekly,Yerwada,Swargate,10,13-04-2023,Aqua Line,18.5486,73.8925
+CUST1935,Jennifer Brown,20,Female,Pune,Single,Cash,Daily,Mangalwar Peth,Phugewadi,16,17-08-2023,Aqua Line,18.5282,73.8623
+CUST1936,Matthew Williams,47,Female,Pune,Single,Net Banking,Daily,Dapodi,Chhatrapati Sambhaji Udyan,10,24-04-2023,Purple Line,18.5783,73.8381
+CUST1937,Amber Scott,36,Male,Nashik,Single,Net Banking,Daily,Yerwada,Ideal Colony,28,30-10-2023,Aqua Line,18.5486,73.8925
+CUST1938,Raymond Bailey,56,Male,Nagpur,Return,UPI,Weekly,PCMC,Chhatrapati Sambhaji Udyan,18,31-08-2023,Purple Line,18.62910766,73.80377477
+CUST1939,Chase Cardenas,42,Male,Mumbai,Single,Cash,Daily,Garware College,Kasba Peth,16,29-01-2023,Aqua Line,18.5161,73.8345
+CUST1940,Sarah Smith,56,Male,Pune,Monthly Pass,Net Banking,Weekly,Swargate,Vanaz,28,22-07-2024,Purple Line,18.5018,73.8586
+CUST1941,Mitchell Thomas,61,Female,Nashik,Return,Credit Card,Weekly,Nal Stop,Yerwada,26,12-12-2022,Aqua Line,18.5083,73.8296
+CUST1942,Catherine Christensen,23,Female,Nashik,Single,Credit Card,Occasionally,Bopodi,Mangalwar Peth,12,22-07-2023,Purple Line,18.5645,73.8456
+CUST1943,Samuel Mercer,25,Male,Pune,Return,Net Banking,Daily,Dapodi,Deccan Gymkhana,10,08-07-2022,Purple Line,18.5783,73.8381
+CUST1944,Chad Miller,56,Male,Pune,Monthly Pass,Credit Card,Occasionally,PMC,Mandai,12,14-12-2022,Aqua Line,18.5169,73.8535
+CUST1945,Peter Smith,50,Male,Mumbai,Return,UPI,Daily,PMC,District Court,10,23-08-2024,Aqua Line,18.5169,73.8535
+CUST1946,Laura Moran,40,Female,Nagpur,Single,Net Banking,Daily,Phugewadi,Chhatrapati Sambhaji Udyan,10,31-12-2023,Purple Line,18.592,73.829
+CUST1947,Anne Hood,51,Female,Nagpur,Return,UPI,Daily,Kalyani Nagar,Deccan Gymkhana,24,11-01-2023,Aqua Line,18.5515,73.9001
+CUST1948,Steven Lee,34,Male,Nagpur,Return,Net Banking,Weekly,Vanaz,Bopodi,18,04-02-2022,Aqua Line,18.5005,73.8077
+CUST1949,James Sampson,47,Male,Aurangabad,Single,UPI,Weekly,Kalyani Nagar,Chhatrapati Sambhaji Udyan,22,02-03-2023,Aqua Line,18.5515,73.9001
+CUST1950,William Spencer,63,Male,Nashik,Single,Cash,Occasionally,Pune Railway Station,Garware College,18,09-08-2024,Aqua Line,18.5297,73.8726
+CUST1951,Beth Willis,37,Male,Aurangabad,Single,Net Banking,Occasionally,PCMC,Phugewadi,14,22-05-2024,Purple Line,18.62910766,73.80377477
+CUST1952,Caroline Cruz,39,Female,Pune,Monthly Pass,Credit Card,Daily,PMC,Phugewadi,12,04-02-2023,Aqua Line,18.5169,73.8535
+CUST1953,Christian Johns,38,Male,Nagpur,Return,UPI,Weekly,Mandai,Vanaz,26,28-12-2024,Purple Line,18.51,73.856
+CUST1954,Anthony Whitaker,31,Female,Nashik,Single,UPI,Occasionally,Vanaz,Bhosari,10,04-10-2022,Aqua Line,18.5005,73.8077
+CUST1955,Daniel Stewart,42,Female,Nagpur,Return,Cash,Occasionally,Sant Tukaram Nagar,Dapodi,14,21-07-2023,Purple Line,18.627,73.8075
+CUST1956,Thomas Rowe,20,Female,Aurangabad,Monthly Pass,Cash,Weekly,Kalyani Nagar,District Court,18,26-12-2022,Aqua Line,18.5515,73.9001
+CUST1957,Sandra Harris,22,Male,Nashik,Return,Net Banking,Weekly,Deccan Gymkhana,Kasarwadi,10,10-08-2023,Aqua Line,18.5204,73.8415
+CUST1958,Susan Carpenter,41,Male,Nagpur,Single,Cash,Weekly,Bhosari,Kalyani Nagar,30,20-08-2023,Purple Line,18.6188,73.8136
+CUST1959,Yesenia Estrada,41,Female,Nashik,Return,Credit Card,Daily,Kasba Peth,District Court,10,02-05-2024,Purple Line,18.52162948,73.85949608
+CUST1960,Connor Peterson,57,Male,Nagpur,Monthly Pass,Credit Card,Occasionally,Nal Stop,District Court,16,27-12-2023,Aqua Line,18.5083,73.8296
+CUST1961,Ann Nguyen,49,Male,Mumbai,Return,Cash,Weekly,Chhatrapati Sambhaji Udyan,Pune Railway Station,14,03-01-2022,Aqua Line,18.5206,73.8441
+CUST1962,Jeremy May,65,Female,Aurangabad,Return,Cash,Occasionally,Shivaji Nagar,Yerwada,18,08-11-2024,Purple Line,18.5308,73.8524
+CUST1963,Christopher Luna,60,Female,Pune,Return,Cash,Occasionally,Pune Railway Station,District Court,10,11-12-2023,Aqua Line,18.5297,73.8726
+CUST1964,Kathy Henderson,32,Female,Mumbai,Return,Net Banking,Daily,Mangalwar Peth,Bhosari,20,06-10-2024,Aqua Line,18.5282,73.8623
+CUST1965,Emily Jenkins DVM,37,Male,Aurangabad,Return,UPI,Daily,Yerwada,District Court,16,24-07-2024,Aqua Line,18.5486,73.8925
+CUST1966,Stephanie Walton,42,Female,Nashik,Return,Cash,Occasionally,Swargate,Mangalwar Peth,10,04-11-2023,Purple Line,18.5018,73.8586
+CUST1967,Kevin Charles,57,Male,Aurangabad,Single,Cash,Daily,Bopodi,District Court,10,03-10-2024,Purple Line,18.5645,73.8456
+CUST1968,David Goodwin,57,Female,Pune,Single,UPI,Occasionally,Mangalwar Peth,Ruby Hall Clinic,10,12-10-2023,Aqua Line,18.5282,73.8623
+CUST1969,Adam Gibson,19,Female,Mumbai,Return,Cash,Daily,PMC,Bhosari,16,21-05-2024,Aqua Line,18.5169,73.8535
+CUST1970,Gene Andrews,54,Female,Aurangabad,Monthly Pass,Cash,Occasionally,Ramwadi,Phugewadi,28,21-01-2024,Aqua Line,18.5583,73.9076
+CUST1971,Joshua Howard,26,Female,Nagpur,Single,UPI,Daily,Bhosari,Chhatrapati Sambhaji Udyan,14,03-04-2022,Purple Line,18.6188,73.8136
+CUST1972,Jesus Powers,25,Male,Aurangabad,Return,Cash,Occasionally,PCMC,PMC,20,17-05-2024,Purple Line,18.62910766,73.80377477
+CUST1973,Bradley Drake,28,Male,Nashik,Monthly Pass,Credit Card,Occasionally,PMC,Kasba Peth,10,01-06-2024,Aqua Line,18.5169,73.8535
+CUST1974,Diane Sanders,21,Female,Pune,Single,Credit Card,Daily,PMC,Chhatrapati Sambhaji Udyan,10,22-11-2022,Aqua Line,18.5169,73.8535
+CUST1975,Laurie Carter,48,Female,Nagpur,Single,Net Banking,Daily,Yerwada,Bhosari,28,15-09-2023,Aqua Line,18.5486,73.8925
+CUST1976,Douglas Bartlett,44,Female,Pune,Single,Cash,Daily,Ramwadi,Kalyani Nagar,10,09-05-2022,Aqua Line,18.5583,73.9076
+CUST1977,Albert Mcintyre,36,Female,Mumbai,Single,Cash,Weekly,District Court,Mandai,10,06-07-2024,Interchange Station,18.5204,73.8567
+CUST1978,Steven Jenkins,32,Female,Mumbai,Monthly Pass,UPI,Occasionally,Ramwadi,Deccan Gymkhana,26,02-06-2023,Aqua Line,18.5583,73.9076
+CUST1979,Kathleen Ortiz,49,Male,Aurangabad,Return,Credit Card,Daily,Nal Stop,District Court,16,05-04-2024,Aqua Line,18.5083,73.8296
+CUST1980,Kaitlyn Villa,32,Female,Mumbai,Monthly Pass,Credit Card,Daily,Ideal Colony,Shivaji Nagar,16,22-02-2023,Aqua Line,18.4942,73.8203
+CUST1981,Michael Moss,62,Female,Aurangabad,Monthly Pass,UPI,Weekly,Ruby Hall Clinic,Kasba Peth,10,02-07-2022,Aqua Line,18.5341,73.8795
+CUST1982,Joseph Paul,54,Male,Nashik,Single,Credit Card,Weekly,Ideal Colony,Chhatrapati Sambhaji Udyan,14,27-09-2024,Aqua Line,18.4942,73.8203
+CUST1983,Katherine Cordova,63,Female,Mumbai,Monthly Pass,UPI,Weekly,Kalyani Nagar,PCMC,30,09-08-2023,Aqua Line,18.5515,73.9001
+CUST1984,Chad Durham,32,Female,Nagpur,Monthly Pass,Credit Card,Occasionally,Yerwada,Kasarwadi,26,25-01-2023,Aqua Line,18.5486,73.8925
+CUST1985,Charles Willis,41,Male,Pune,Single,Credit Card,Weekly,Phugewadi,Vanaz,14,20-11-2023,Purple Line,18.592,73.829
+CUST1986,Sheila Stone,37,Female,Pune,Single,Cash,Daily,Nal Stop,Deccan Gymkhana,10,10-01-2024,Aqua Line,18.5083,73.8296
+CUST1987,Craig Arnold,34,Female,Mumbai,Return,Credit Card,Weekly,Shivaji Nagar,Bhosari,16,17-03-2023,Purple Line,18.5308,73.8524
+CUST1988,Marc Andrade,32,Male,Nashik,Return,Cash,Occasionally,Kasarwadi,Kasba Peth,18,10-09-2024,Purple Line,18.6069,73.8225
+CUST1989,Matthew Welch,36,Female,Nashik,Monthly Pass,Credit Card,Weekly,Shivaji Nagar,PMC,10,09-03-2022,Purple Line,18.5308,73.8524
+CUST1990,Kayla Frank,60,Male,Pune,Single,UPI,Weekly,Mangalwar Peth,Yerwada,14,06-03-2022,Aqua Line,18.5282,73.8623
+CUST1991,Julia Davis,42,Male,Nagpur,Return,UPI,Weekly,Pune Railway Station,Kalyani Nagar,14,25-05-2023,Aqua Line,18.5297,73.8726
+CUST1992,Keith Brooks,37,Female,Mumbai,Monthly Pass,Credit Card,Daily,Garware College,Sant Tukaram Nagar,12,22-11-2024,Aqua Line,18.5161,73.8345
+CUST1993,Brenda Taylor,34,Female,Nashik,Single,UPI,Occasionally,PCMC,Yerwada,30,31-07-2022,Purple Line,18.62910766,73.80377477
+CUST1994,Carol Orozco,65,Male,Pune,Return,Credit Card,Daily,Chhatrapati Sambhaji Udyan,PMC,10,14-03-2024,Aqua Line,18.5206,73.8441
+CUST1995,Ashley Lynch,48,Female,Aurangabad,Single,UPI,Weekly,Ideal Colony,Dapodi,12,21-08-2024,Aqua Line,18.4942,73.8203
+CUST1996,David Nunez,52,Female,Nashik,Monthly Pass,UPI,Occasionally,Bhosari,Garware College,10,13-07-2024,Purple Line,18.6188,73.8136
+CUST1997,Logan Figueroa,20,Male,Pune,Monthly Pass,Credit Card,Occasionally,Ramwadi,Dapodi,26,25-11-2023,Aqua Line,18.5583,73.9076
+CUST1998,Lisa Wilson,27,Female,Nashik,Return,Net Banking,Daily,Mandai,Bopodi,14,18-04-2024,Purple Line,18.51,73.856
+CUST1999,Timothy Lewis,21,Female,Aurangabad,Single,Net Banking,Occasionally,PMC,Kasarwadi,14,11-06-2024,Aqua Line,18.5169,73.8535
